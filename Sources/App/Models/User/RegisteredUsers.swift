@@ -52,7 +52,7 @@ class RegisteredUsers {
                             email: saveData["email"] as! String,
                             password: saveData["password"] as! String,
                             credit_card: saveData["credit_card"] as! String,
-                            itemsInCart: saveData["itemsInCart"] as? [Int])
+                            itemsInCart: saveData["itemsInCart"] as? [String])
         
         print(authUser)
         return (.successfulAuthorization, authUser)

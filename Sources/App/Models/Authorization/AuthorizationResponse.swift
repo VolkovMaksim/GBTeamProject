@@ -12,7 +12,7 @@ struct AuthorizationResponse: Content {
     var email: String?
     var password: String?
     var credit_card: String?
-    var itemsInCart: [Int]?
+    var itemsInCart: [String]?
     var result: Int
     var user_message: String
     var error_message: String?
