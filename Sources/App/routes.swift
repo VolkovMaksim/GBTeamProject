@@ -15,6 +15,11 @@ func routes(_ app: Application) throws {
     let controllerAuthorization = AuthorizationController()
     // при запросе на url "authorization" будет использован класс AuthorizationController - метод authorization
     app.post("authorization", use: controllerAuthorization.authorization)
+    
+    //MARK: ИЗМЕНЕНИЕ ПЕРСОНАЛЬНЫХ ДАННЫХ
+    let controllerEditPersonalData = EditPersonalDataController()
+    // при запросе на url "editpersonaldata" будет использован класс EditPersonalDataController - метод editPersonalData
+    app.post("editpersonaldata", use: controllerEditPersonalData.editPersonalData)
 
     try app.register(collection: TodoController())
 }

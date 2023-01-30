@@ -13,6 +13,7 @@ class RegisteredUsers {
     var usersDictionary = [String: Any]()
     
     //MARK: РЕГИСТРАЦИЯ
+    
     // метод регистрации/проверки занятости e-mail регистрирующегося пользователя
     func usersRegistration(body: RegistrationRequest) -> UsersMessage {
         // проверяем словарь на наличие объекта с ключом email
@@ -34,6 +35,7 @@ class RegisteredUsers {
     }
     
     //MARK: АВТОРИЗАЦИЯ
+    
     func usersAuthorization(body: AuthorizationRequest) -> (UsersMessage, User?) {
         // достаем словарь с данными пользователя по email, если такой словарь есть
         guard let saveData = registeredUsers.object(forKey: body.email) as? [String:Any] else {
@@ -56,5 +58,24 @@ class RegisteredUsers {
         
         print(authUser)
         return (.successfulAuthorization, authUser)
+    }
+    
+    //MARK: РЕДАКТИРОВАНИЕ ДАННЫХ
+    
+    func usersEditPersonalData(body: EditPersonalDataRequest) -> UsersMessage {
+        // достаем словарь с данными пользователя по email, если такой словарь есть
+        guard var editPersonalData = registeredUsers.object(forKey: body.email) as? [String:Any] else {
+            // если в памяти нет такого ключа-email
+            return .emailNotExists
+        }
+        
+        editPersonalData["username"] = body.username
+        editPersonalData["email"] = body.email
+        editPersonalData["password"] = body.password
+        editPersonalData["credit_card"] = body.credit_card
+        editPersonalData["itemsInCart"] = 0
+        
+        registeredUsers.set(editPersonalData, forKey: body.email)
+        return .successfulEditPersonalData
     }
 }
