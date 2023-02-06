@@ -20,6 +20,11 @@ func routes(_ app: Application) throws {
     let controllerEditPersonalData = EditPersonalDataController()
     // при запросе на url "editpersonaldata" будет использован класс EditPersonalDataController - метод editPersonalData
     app.post("editpersonaldata", use: controllerEditPersonalData.editPersonalData)
+    
+    //MARK: ЗАПРОС СПИСКА ТОВАРОВ
+    app.get("merch.json") { req async -> String in
+        "Лови список товаров"
+    }
 
     try app.register(collection: TodoController())
 }
