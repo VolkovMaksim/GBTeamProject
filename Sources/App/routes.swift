@@ -22,9 +22,8 @@ func routes(_ app: Application) throws {
     app.post("editpersonaldata", use: controllerEditPersonalData.editPersonalData)
     
     //MARK: ЗАПРОС СПИСКА ТОВАРОВ
-    app.get("merch.json") { req async -> String in
-        "Лови список товаров"
-    }
+    let controllerStock = StockController()
+    app.get("stock", use: controllerStock.stock)
 
     try app.register(collection: TodoController())
 }
