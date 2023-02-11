@@ -14,4 +14,5 @@ struct MerchElement: Codable {
     let feedbacks: [String]
 }
 
-typealias Merch = [String: [MerchElement]]
+typealias Merch = [String: MerchElement]
+
