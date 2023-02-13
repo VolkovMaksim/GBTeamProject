@@ -69,3 +69,42 @@ POST-запрос Body raw JSON:
     "error_message": String(Optional),
     "result": Int
   }
+  
+  ### 4. /stock
+  
+  GET-запрос Body raw JSON:
+  
+  Ответ:
+  
+  {
+    "stock": Merch
+  }
+  
+    struct MerchElement: Codable {
+        let name: String
+        let price, size: Int
+        let color, icon: String
+        let feedbacks: [String]
+    
+    }
+
+  typealias Merch = [String: MerchElement]
+
+  ### 5. /edititemsincart
+  
+  POST-запрос Body raw JSON:
+  
+  {
+  
+     "email": String,
+     "itemsInCart": [String]
+  }
+  
+  Ответ:
+  
+  {
+  
+    "user_message": String,
+    "error_message": String(Optional),
+    "result": Int
+  }
