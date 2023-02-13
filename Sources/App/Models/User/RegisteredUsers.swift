@@ -73,9 +73,24 @@ class RegisteredUsers {
         editPersonalData["email"] = body.email
         editPersonalData["password"] = body.password
         editPersonalData["credit_card"] = body.credit_card
-        editPersonalData["itemsInCart"] = 0
         
         registeredUsers.set(editPersonalData, forKey: body.email)
         return .successfulEditPersonalData
+    }
+    
+    //MARK: РЕДАКТИРОВАНИЕ СПИСКА ТОВАРОВ В КОРЗИНЕ
+    
+    func usersEditItemsInCart(body: ItemsInCartRequest) -> UsersMessage {
+        // достаем словарь с данными пользователя по email, если такой словарь есть
+        guard var editItemsInCart = registeredUsers.object(forKey: body.email) as? [String:Any] else {
+            // если в памяти нет такого ключа-email
+            return .emailNotExists
+        }
+        
+        editItemsInCart["itemsInCart"] = body.itemsInCart
+        print(editItemsInCart["itemsInCart"]!)
+        
+        registeredUsers.set(editItemsInCart, forKey: body.email)
+        return .successfulEditItemsInCart
     }
 }

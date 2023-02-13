@@ -14,4 +14,5 @@ enum UsersMessage: String {
     case emailNotExists = "Такой E-mail не зарегистрирован"
     case wrongPassword = "Неправильный пароль!"
     case successfulEditPersonalData = "Данные изменены успешно!"
+    case successfulEditItemsInCart = "Данные корзины изменены успешно!"
 }
