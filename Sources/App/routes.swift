@@ -25,6 +25,11 @@ func routes(_ app: Application) throws {
     //MARK: ИЗМЕНЕНИЕ СПИСКА ТОВАРОВ В КОРЗИНЕ
     let controllerEditItemsInCart = EditItemsInCartController()
     app.post("edititemincart", use: controllerEditItemsInCart.editItemInCart)
+    
+    //MARK: ВЫГРУЗКА ИЗОБРАЖЕНИЯ
+    app.get("$0.png") { req async in
+        "передача изображения"
+    }
 
     try app.register(collection: TodoController())
 }

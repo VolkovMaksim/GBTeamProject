@@ -2,44 +2,44 @@
 {
     "24010101":
     {
-        "name": "Брюки",
+        "name": "Длинная куртка",
         "price": 7200,
         "size": 40,
         "color": "Синий",
-        "icon": "",
+        "icon": "down_jacket_icon.png",
         "feedbacks": [
             "Тестовый отзыв"
         ]
     },
     "24010102":
     {
-        "name": "Брюки",
+        "name": "Длинная куртка",
         "price": 7200,
         "size": 42,
         "color": "Синий",
-        "icon": "",
+        "icon": "down_jacket_icon.png",
         "feedbacks": [
             "Тестовый отзыв"
         ]
     },
     "24010103":
     {
-        "name": "Брюки",
+        "name": "Длинная куртка",
         "price": 7200,
         "size": 44,
         "color": "Синий",
-        "icon": "",
+        "icon": "down_jacket_icon.png",
         "feedbacks": [
             "Тестовый отзыв"
         ]
     },
     "24010104":
     {
-        "name": "Брюки",
+        "name": "Длинная куртка",
         "price": 7200,
         "size": 46,
         "color": "Синий",
-        "icon": "",
+        "icon": "down_jacket_icon.png",
         "feedbacks": [
             "Тестовый отзыв"
         ]
@@ -47,44 +47,44 @@
     
     "24010201":
     {
-        "name": "Брюки",
+        "name": "Длинная куртка",
         "price": 7200,
         "size": 40,
         "color": "Черный",
-        "icon": "",
+        "icon": "down_jacket_icon.png",
         "feedbacks": [
             "Тестовый отзыв"
         ]
     },
     "24010202":
     {
-        "name": "Брюки",
+        "name": "Длинная куртка",
         "price": 7200,
         "size": 42,
         "color": "Черный",
-        "icon": "",
+        "icon": "down_jacket_icon.png",
         "feedbacks": [
             "Тестовый отзыв"
         ]
     },
     "24010203":
     {
-        "name": "Брюки",
+        "name": "Длинная куртка",
         "price": 7200,
         "size": 44,
         "color": "Черный",
-        "icon": "",
+        "icon": "down_jacket_icon.png",
         "feedbacks": [
             "Тестовый отзыв"
         ]
     },
     "24010204":
     {
-        "name": "Брюки",
+        "name": "Длинная куртка",
         "price": 7200,
         "size": 46,
         "color": "Черный",
-        "icon": "",
+        "icon": "down_jacket_icon.png",
         "feedbacks": [
             "Тестовый отзыв"
         ]
@@ -92,44 +92,44 @@
     
     "24010301":
     {
-        "name": "Брюки",
+        "name": "Длинная куртка",
         "price": 7200,
         "size": 40,
         "color": "Серый",
-        "icon": "",
+        "icon": "down_jacket_icon.png",
         "feedbacks": [
             "Тестовый отзыв"
         ]
     },
     "24010302":
     {
-        "name": "Брюки",
+        "name": "Длинная куртка",
         "price": 7200,
         "size": 42,
         "color": "Серый",
-        "icon": "",
+        "icon": "down_jacket_icon.png",
         "feedbacks": [
             "Тестовый отзыв"
         ]
     },
     "24010303":
     {
-        "name": "Брюки",
+        "name": "Длинная куртка",
         "price": 7200,
         "size": 44,
         "color": "Серый",
-        "icon": "",
+        "icon": "down_jacket_icon.png",
         "feedbacks": [
             "Тестовый отзыв"
         ]
     },
     "24010304":
     {
-        "name": "Брюки",
+        "name": "Длинная куртка",
         "price": 7200,
         "size": 46,
         "color": "Серый",
-        "icon": "",
+        "icon": "down_jacket_icon.png",
         "feedbacks": [
             "Тестовый отзыв"
         ]
@@ -137,44 +137,44 @@
     
     "24010401":
     {
-        "name": "Брюки",
+        "name": "Длинная куртка",
         "price": 7200,
         "size": 40,
         "color": "Белый",
-        "icon": "",
+        "icon": "down_jacket_icon.png",
         "feedbacks": [
             "Тестовый отзыв"
         ]
     },
     "24010402":
     {
-        "name": "Брюки",
+        "name": "Длинная куртка",
         "price": 7200,
         "size": 42,
         "color": "Белый",
-        "icon": "",
+        "icon": "down_jacket_icon.png",
         "feedbacks": [
             "Тестовый отзыв"
         ]
     },
     "24010403":
     {
-        "name": "Брюки",
+        "name": "Длинная куртка",
         "price": 7200,
         "size": 44,
         "color": "Белый",
-        "icon": "",
+        "icon": "down_jacket_icon.png",
         "feedbacks": [
             "Тестовый отзыв"
         ]
     },
     "24010404":
     {
-        "name": "Брюки",
+        "name": "Длинная куртка",
         "price": 7200,
         "size": 46,
         "color": "Белый",
-        "icon": "",
+        "icon": "down_jacket_icon.png",
         "feedbacks": [
             "Тестовый отзыв"
         ]
@@ -185,44 +185,44 @@
     
     "24020101":
     {
-        "name": "Джинсы",
+        "name": "Высокие сапоги",
         "price": 4990,
         "size": 40,
         "color": "Синий",
-        "icon": "",
+        "icon": "boots_icon.png",
         "feedbacks": [
             "Тестовый отзыв"
         ]
     },
     "24020102":
     {
-        "name": "Джинсы",
+        "name": "Высокие сапоги",
         "price": 4990,
         "size": 42,
         "color": "Синий",
-        "icon": "",
+        "icon": "boots_icon.png",
         "feedbacks": [
             "Тестовый отзыв"
         ]
     },
     "24020103":
     {
-        "name": "Джинсы",
+        "name": "Высокие сапоги",
         "price": 4990,
         "size": 44,
         "color": "Синий",
-        "icon": "",
+        "icon": "boots_icon.png",
         "feedbacks": [
             "Тестовый отзыв"
         ]
     },
     "24020104":
     {
-        "name": "Джинсы",
+        "name": "Высокие сапоги",
         "price": 4990,
         "size": 46,
         "color": "Синий",
-        "icon": "",
+        "icon": "boots_icon.png",
         "feedbacks": [
             "Тестовый отзыв"
         ]
@@ -230,44 +230,44 @@
     
     "24020201":
     {
-        "name": "Джинсы",
+        "name": "Высокие сапоги",
         "price": 4990,
         "size": 40,
         "color": "Черный",
-        "icon": "",
+        "icon": "boots_icon.png",
         "feedbacks": [
             "Тестовый отзыв"
         ]
     },
     "24020202":
     {
-        "name": "Джинсы",
+        "name": "Высокие сапоги",
         "price": 4990,
         "size": 42,
         "color": "Черный",
-        "icon": "",
+        "icon": "boots_icon.png",
         "feedbacks": [
             "Тестовый отзыв"
         ]
     },
     "24020203":
     {
-        "name": "Джинсы",
+        "name": "Высокие сапоги",
         "price": 4990,
         "size": 44,
         "color": "Черный",
-        "icon": "",
+        "icon": "boots_icon.png",
         "feedbacks": [
             "Тестовый отзыв"
         ]
     },
     "24020204":
     {
-        "name": "Джинсы",
+        "name": "Высокие сапоги",
         "price": 4990,
         "size": 46,
         "color": "Черный",
-        "icon": "",
+        "icon": "boots_icon.png",
         "feedbacks": [
             "Тестовый отзыв"
         ]
@@ -275,44 +275,44 @@
     
     "24020301":
     {
-        "name": "Джинсы",
+        "name": "Высокие сапоги",
         "price": 4990,
         "size": 40,
         "color": "Серый",
-        "icon": "",
+        "icon": "boots_icon.png",
         "feedbacks": [
             "Тестовый отзыв"
         ]
     },
     "24020302":
     {
-        "name": "Джинсы",
+        "name": "Высокие сапоги",
         "price": 4990,
         "size": 42,
         "color": "Серый",
-        "icon": "",
+        "icon": "boots_icon.png",
         "feedbacks": [
             "Тестовый отзыв"
         ]
     },
     "24020303":
     {
-        "name": "Джинсы",
+        "name": "Высокие сапоги",
         "price": 4990,
         "size": 44,
         "color": "Серый",
-        "icon": "",
+        "icon": "boots_icon.png",
         "feedbacks": [
             "Тестовый отзыв"
         ]
     },
     "24020304":
     {
-        "name": "Джинсы",
+        "name": "Высокие сапоги",
         "price": 4990,
         "size": 46,
         "color": "Серый",
-        "icon": "",
+        "icon": "boots_icon.png",
         "feedbacks": [
             "Тестовый отзыв"
         ]
@@ -320,44 +320,44 @@
     
     "24020401":
     {
-        "name": "Джинсы",
+        "name": "Высокие сапоги",
         "price": 4990,
         "size": 40,
         "color": "Белый",
-        "icon": "",
+        "icon": "boots_icon.png",
         "feedbacks": [
             "Тестовый отзыв"
         ]
     },
     "24020402":
     {
-        "name": "Джинсы",
+        "name": "Высокие сапоги",
         "price": 4990,
         "size": 42,
         "color": "Белый",
-        "icon": "",
+        "icon": "boots_icon.png",
         "feedbacks": [
             "Тестовый отзыв"
         ]
     },
     "24020403":
     {
-        "name": "Джинсы",
+        "name": "Высокие сапоги",
         "price": 4990,
         "size": 44,
         "color": "Белый",
-        "icon": "",
+        "icon": "boots_icon.png",
         "feedbacks": [
             "Тестовый отзыв"
         ]
     },
     "24020404":
     {
-        "name": "Джинсы",
+        "name": "Высокие сапоги",
         "price": 4990,
         "size": 46,
         "color": "Белый",
-        "icon": "",
+        "icon": "boots_icon.png",
         "feedbacks": [
             "Тестовый отзыв"
         ]
@@ -372,7 +372,7 @@
         "price": 9190,
         "size": 40,
         "color": "Синий",
-        "icon": "",
+        "icon": "jacket_icon.png",
         "feedbacks": [
             "Тестовый отзыв"
         ]
@@ -383,7 +383,7 @@
         "price": 9190,
         "size": 42,
         "color": "Синий",
-        "icon": "",
+        "icon": "jacket_icon.png",
         "feedbacks": [
             "Тестовый отзыв"
         ]
@@ -394,7 +394,7 @@
         "price": 9190,
         "size": 44,
         "color": "Синий",
-        "icon": "",
+        "icon": "jacket_icon.png",
         "feedbacks": [
             "Тестовый отзыв"
         ]
@@ -405,7 +405,7 @@
         "price": 9190,
         "size": 46,
         "color": "Синий",
-        "icon": "",
+        "icon": "jacket_icon.png",
         "feedbacks": [
             "Тестовый отзыв"
         ]
@@ -417,7 +417,7 @@
         "price": 9190,
         "size": 40,
         "color": "Черный",
-        "icon": "",
+        "icon": "jacket_icon.png",
         "feedbacks": [
             "Тестовый отзыв"
         ]
@@ -428,7 +428,7 @@
         "price": 9190,
         "size": 42,
         "color": "Черный",
-        "icon": "",
+        "icon": "jacket_icon.png",
         "feedbacks": [
             "Тестовый отзыв"
         ]
@@ -439,7 +439,7 @@
         "price": 9190,
         "size": 44,
         "color": "Черный",
-        "icon": "",
+        "icon": "jacket_icon.png",
         "feedbacks": [
             "Тестовый отзыв"
         ]
@@ -450,7 +450,7 @@
         "price": 9190,
         "size": 46,
         "color": "Черный",
-        "icon": "",
+        "icon": "jacket_icon.png",
         "feedbacks": [
             "Тестовый отзыв"
         ]
@@ -462,7 +462,7 @@
         "price": 9190,
         "size": 40,
         "color": "Серый",
-        "icon": "",
+        "icon": "jacket_icon.png",
         "feedbacks": [
             "Тестовый отзыв"
         ]
@@ -473,7 +473,7 @@
         "price": 9190,
         "size": 42,
         "color": "Серый",
-        "icon": "",
+        "icon": "jacket_icon.png",
         "feedbacks": [
             "Тестовый отзыв"
         ]
@@ -484,7 +484,7 @@
         "price": 9190,
         "size": 44,
         "color": "Серый",
-        "icon": "",
+        "icon": "jacket_icon.png",
         "feedbacks": [
             "Тестовый отзыв"
         ]
@@ -495,7 +495,7 @@
         "price": 9190,
         "size": 46,
         "color": "Серый",
-        "icon": "",
+        "icon": "jacket_icon.png",
         "feedbacks": [
             "Тестовый отзыв"
         ]
@@ -507,7 +507,7 @@
         "price": 9190,
         "size": 40,
         "color": "Белый",
-        "icon": "",
+        "icon": "jacket_icon.png",
         "feedbacks": [
             "Тестовый отзыв"
         ]
@@ -518,7 +518,7 @@
         "price": 9190,
         "size": 42,
         "color": "Белый",
-        "icon": "",
+        "icon": "jacket_icon.png",
         "feedbacks": [
             "Тестовый отзыв"
         ]
@@ -529,7 +529,7 @@
         "price": 9190,
         "size": 44,
         "color": "Белый",
-        "icon": "",
+        "icon": "jacket_icon.png",
         "feedbacks": [
             "Тестовый отзыв"
         ]
@@ -540,7 +540,7 @@
         "price": 9190,
         "size": 46,
         "color": "Белый",
-        "icon": "",
+        "icon": "jacket_icon.png",
         "feedbacks": [
             "Тестовый отзыв"
         ]
@@ -555,7 +555,7 @@
         "price": 2790,
         "size": 40,
         "color": "Синий",
-        "icon": "",
+        "icon": "dress_icon.png",
         "feedbacks": [
             "Тестовый отзыв"
         ]
@@ -566,7 +566,7 @@
         "price": 2790,
         "size": 42,
         "color": "Синий",
-        "icon": "",
+        "icon": "dress_icon.png",
         "feedbacks": [
             "Тестовый отзыв"
         ]
@@ -577,7 +577,7 @@
         "price": 2790,
         "size": 44,
         "color": "Синий",
-        "icon": "",
+        "icon": "dress_icon.png",
         "feedbacks": [
             "Тестовый отзыв"
         ]
@@ -588,7 +588,7 @@
         "price": 2790,
         "size": 46,
         "color": "Синий",
-        "icon": "",
+        "icon": "dress_icon.png",
         "feedbacks": [
             "Тестовый отзыв"
         ]
@@ -601,7 +601,7 @@
         "price": 2790,
         "size": 40,
         "color": "Черный",
-        "icon": "",
+        "icon": "dress_icon.png",
         "feedbacks": [
             "Тестовый отзыв"
         ]
@@ -612,7 +612,7 @@
         "price": 2790,
         "size": 42,
         "color": "Черный",
-        "icon": "",
+        "icon": "dress_icon.png",
         "feedbacks": [
             "Тестовый отзыв"
         ]
@@ -623,7 +623,7 @@
         "price": 2790,
         "size": 44,
         "color": "Черный",
-        "icon": "",
+        "icon": "dress_icon.png",
         "feedbacks": [
             "Тестовый отзыв"
         ]
@@ -634,7 +634,7 @@
         "price": 2790,
         "size": 46,
         "color": "Черный",
-        "icon": "",
+        "icon": "dress_icon.png",
         "feedbacks": [
             "Тестовый отзыв"
         ]
@@ -647,7 +647,7 @@
         "price": 2790,
         "size": 40,
         "color": "Серый",
-        "icon": "",
+        "icon": "dress_icon.png",
         "feedbacks": [
             "Тестовый отзыв"
         ]
@@ -658,7 +658,7 @@
         "price": 2790,
         "size": 42,
         "color": "Серый",
-        "icon": "",
+        "icon": "dress_icon.png",
         "feedbacks": [
             "Тестовый отзыв"
         ]
@@ -669,7 +669,7 @@
         "price": 2790,
         "size": 44,
         "color": "Серый",
-        "icon": "",
+        "icon": "dress_icon.png",
         "feedbacks": [
             "Тестовый отзыв"
         ]
@@ -680,7 +680,7 @@
         "price": 2790,
         "size": 46,
         "color": "Серый",
-        "icon": "",
+        "icon": "dress_icon.png",
         "feedbacks": [
             "Тестовый отзыв"
         ]
@@ -693,7 +693,7 @@
         "price": 2790,
         "size": 40,
         "color": "Белый",
-        "icon": "",
+        "icon": "dress_icon.png",
         "feedbacks": [
             "Тестовый отзыв"
         ]
@@ -704,7 +704,7 @@
         "price": 2790,
         "size": 42,
         "color": "Белый",
-        "icon": "",
+        "icon": "dress_icon.png",
         "feedbacks": [
             "Тестовый отзыв"
         ]
@@ -715,7 +715,7 @@
         "price": 2790,
         "size": 44,
         "color": "Белый",
-        "icon": "",
+        "icon": "dress_icon.png",
         "feedbacks": [
             "Тестовый отзыв"
         ]
@@ -726,7 +726,7 @@
         "price": 2790,
         "size": 46,
         "color": "Белый",
-        "icon": "",
+        "icon": "dress_icon.png",
         "feedbacks": [
             "Тестовый отзыв"
         ]
@@ -737,44 +737,44 @@
     
     "24050101":
     {
-        "name": "Юбка длинная",
+        "name": "Купальник раздельный",
         "price": 3290,
         "size": 40,
         "color": "Синий",
-        "icon": "",
+        "icon": "bra_icon.png",
         "feedbacks": [
             "Тестовый отзыв"
         ]
     },
     "24050102":
     {
-        "name": "Юбка длинная",
+        "name": "Купальник раздельный",
         "price": 3290,
         "size": 42,
         "color": "Синий",
-        "icon": "",
+        "icon": "bra_icon.png",
         "feedbacks": [
             "Тестовый отзыв"
         ]
     },
     "24050103":
     {
-        "name": "Юбка длинная",
+        "name": "Купальник раздельный",
         "price": 3290,
         "size": 44,
         "color": "Синий",
-        "icon": "",
+        "icon": "bra_icon.png",
         "feedbacks": [
             "Тестовый отзыв"
         ]
     },
     "24050104":
     {
-        "name": "Юбка длинная",
+        "name": "Купальник раздельный",
         "price": 3290,
         "size": 46,
         "color": "Синий",
-        "icon": "",
+        "icon": "bra_icon.png",
         "feedbacks": [
             "Тестовый отзыв"
         ]
@@ -783,44 +783,44 @@
     
     "24050201":
     {
-        "name": "Юбка длинная",
+        "name": "Купальник раздельный",
         "price": 3290,
         "size": 40,
         "color": "Черный",
-        "icon": "",
+        "icon": "bra_icon.png",
         "feedbacks": [
             "Тестовый отзыв"
         ]
     },
     "24050202":
     {
-        "name": "Юбка длинная",
+        "name": "Купальник раздельный",
         "price": 3290,
         "size": 42,
         "color": "Черный",
-        "icon": "",
+        "icon": "bra_icon.png",
         "feedbacks": [
             "Тестовый отзыв"
         ]
     },
     "24050203":
     {
-        "name": "Юбка длинная",
+        "name": "Купальник раздельный",
         "price": 3290,
         "size": 44,
         "color": "Черный",
-        "icon": "",
+        "icon": "bra_icon.png",
         "feedbacks": [
             "Тестовый отзыв"
         ]
     },
     "24050204":
     {
-        "name": "Юбка длинная",
+        "name": "Купальник раздельный",
         "price": 3290,
         "size": 46,
         "color": "Черный",
-        "icon": "",
+        "icon": "bra_icon.png",
         "feedbacks": [
             "Тестовый отзыв"
         ]
@@ -829,44 +829,44 @@
     
     "24050301":
     {
-        "name": "Юбка длинная",
+        "name": "Купальник раздельный",
         "price": 3290,
         "size": 40,
         "color": "Серый",
-        "icon": "",
+        "icon": "bra_icon.png",
         "feedbacks": [
             "Тестовый отзыв"
         ]
     },
     "24050302":
     {
-        "name": "Юбка длинная",
+        "name": "Купальник раздельный",
         "price": 3290,
         "size": 42,
         "color": "Серый",
-        "icon": "",
+        "icon": "bra_icon.png",
         "feedbacks": [
             "Тестовый отзыв"
         ]
     },
     "24050303":
     {
-        "name": "Юбка длинная",
+        "name": "Купальник раздельный",
         "price": 3290,
         "size": 44,
         "color": "Серый",
-        "icon": "",
+        "icon": "bra_icon.png",
         "feedbacks": [
             "Тестовый отзыв"
         ]
     },
     "24050304":
     {
-        "name": "Юбка длинная",
+        "name": "Купальник раздельный",
         "price": 3290,
         "size": 46,
         "color": "Серый",
-        "icon": "",
+        "icon": "bra_icon.png",
         "feedbacks": [
             "Тестовый отзыв"
         ]
@@ -875,44 +875,44 @@
     
     "24050401":
     {
-        "name": "Юбка длинная",
+        "name": "Купальник раздельный",
         "price": 3290,
         "size": 40,
         "color": "Белый",
-        "icon": "",
+        "icon": "bra_icon.png",
         "feedbacks": [
             "Тестовый отзыв"
         ]
     },
     "24050402":
     {
-        "name": "Юбка длинная",
+        "name": "Купальник раздельный",
         "price": 3290,
         "size": 42,
         "color": "Белый",
-        "icon": "",
+        "icon": "bra_icon.png",
         "feedbacks": [
             "Тестовый отзыв"
         ]
     },
     "24050403":
     {
-        "name": "Юбка длинная",
+        "name": "Купальник раздельный",
         "price": 3290,
         "size": 44,
         "color": "Белый",
-        "icon": "",
+        "icon": "bra_icon.png",
         "feedbacks": [
             "Тестовый отзыв"
         ]
     },
     "24050404":
     {
-        "name": "Юбка длинная",
+        "name": "Купальник раздельный",
         "price": 3290,
         "size": 46,
         "color": "Белый",
-        "icon": "",
+        "icon": "bra_icon.png",
         "feedbacks": [
             "Тестовый отзыв"
         ]
@@ -927,7 +927,7 @@
         "price": 2990,
         "size": 40,
         "color": "Синий",
-        "icon": "",
+        "icon": "shorts_icon.png",
         "feedbacks": [
             "Тестовый отзыв"
         ]
@@ -938,7 +938,7 @@
         "price": 2990,
         "size": 42,
         "color": "Синий",
-        "icon": "",
+        "icon": "shorts_icon.png",
         "feedbacks": [
             "Тестовый отзыв"
         ]
@@ -949,7 +949,7 @@
         "price": 2990,
         "size": 44,
         "color": "Синий",
-        "icon": "",
+        "icon": "shorts_icon.png",
         "feedbacks": [
             "Тестовый отзыв"
         ]
@@ -960,7 +960,7 @@
         "price": 2990,
         "size": 46,
         "color": "Синий",
-        "icon": "",
+        "icon": "shorts_icon.png",
         "feedbacks": [
             "Тестовый отзыв"
         ]
@@ -972,7 +972,7 @@
         "price": 2990,
         "size": 40,
         "color": "Черный",
-        "icon": "",
+        "icon": "shorts_icon.png",
         "feedbacks": [
             "Тестовый отзыв"
         ]
@@ -983,7 +983,7 @@
         "price": 2990,
         "size": 42,
         "color": "Черный",
-        "icon": "",
+        "icon": "shorts_icon.png",
         "feedbacks": [
             "Тестовый отзыв"
         ]
@@ -994,7 +994,7 @@
         "price": 2990,
         "size": 44,
         "color": "Черный",
-        "icon": "",
+        "icon": "shorts_icon.png",
         "feedbacks": [
             "Тестовый отзыв"
         ]
@@ -1005,7 +1005,7 @@
         "price": 2990,
         "size": 46,
         "color": "Черный",
-        "icon": "",
+        "icon": "shorts_icon.png",
         "feedbacks": [
             "Тестовый отзыв"
         ]
@@ -1017,7 +1017,7 @@
         "price": 2990,
         "size": 40,
         "color": "Серый",
-        "icon": "",
+        "icon": "shorts_icon.png",
         "feedbacks": [
             "Тестовый отзыв"
         ]
@@ -1028,7 +1028,7 @@
         "price": 2990,
         "size": 42,
         "color": "Серый",
-        "icon": "",
+        "icon": "shorts_icon.png",
         "feedbacks": [
             "Тестовый отзыв"
         ]
@@ -1039,7 +1039,7 @@
         "price": 2990,
         "size": 44,
         "color": "Серый",
-        "icon": "",
+        "icon": "shorts_icon.png",
         "feedbacks": [
             "Тестовый отзыв"
         ]
@@ -1050,7 +1050,7 @@
         "price": 2990,
         "size": 46,
         "color": "Серый",
-        "icon": "",
+        "icon": "shorts_icon.png",
         "feedbacks": [
             "Тестовый отзыв"
         ]
@@ -1062,7 +1062,7 @@
         "price": 2990,
         "size": 40,
         "color": "Белый",
-        "icon": "",
+        "icon": "shorts_icon.png",
         "feedbacks": [
             "Тестовый отзыв"
         ]
@@ -1073,7 +1073,7 @@
         "price": 2990,
         "size": 42,
         "color": "Белый",
-        "icon": "",
+        "icon": "shorts_icon.png",
         "feedbacks": [
             "Тестовый отзыв"
         ]
@@ -1084,7 +1084,7 @@
         "price": 2990,
         "size": 44,
         "color": "Белый",
-        "icon": "",
+        "icon": "shorts_icon.png",
         "feedbacks": [
             "Тестовый отзыв"
         ]
@@ -1095,7 +1095,7 @@
         "price": 2990,
         "size": 46,
         "color": "Белый",
-        "icon": "",
+        "icon": "shorts_icon.png",
         "feedbacks": [
             "Тестовый отзыв"
         ]
@@ -1110,7 +1110,7 @@
         "price": 5790,
         "size": 40,
         "color": "Синий",
-        "icon": "",
+        "icon": "skirt_icon.png",
         "feedbacks": [
             "Тестовый отзыв"
         ]
@@ -1121,7 +1121,7 @@
         "price": 5790,
         "size": 42,
         "color": "Синий",
-        "icon": "",
+        "icon": "skirt_icon.png",
         "feedbacks": [
             "Тестовый отзыв"
         ]
@@ -1132,7 +1132,7 @@
         "price": 5790,
         "size": 44,
         "color": "Синий",
-        "icon": "",
+        "icon": "skirt_icon.png",
         "feedbacks": [
             "Тестовый отзыв"
         ]
@@ -1143,7 +1143,7 @@
         "price": 5790,
         "size": 46,
         "color": "Синий",
-        "icon": "",
+        "icon": "skirt_icon.png",
         "feedbacks": [
             "Тестовый отзыв"
         ]
@@ -1155,7 +1155,7 @@
         "price": 5790,
         "size": 40,
         "color": "Черный",
-        "icon": "",
+        "icon": "skirt_icon.png",
         "feedbacks": [
             "Тестовый отзыв"
         ]
@@ -1166,7 +1166,7 @@
         "price": 5790,
         "size": 42,
         "color": "Черный",
-        "icon": "",
+        "icon": "skirt_icon.png",
         "feedbacks": [
             "Тестовый отзыв"
         ]
@@ -1177,7 +1177,7 @@
         "price": 5790,
         "size": 44,
         "color": "Черный",
-        "icon": "",
+        "icon": "skirt_icon.png",
         "feedbacks": [
             "Тестовый отзыв"
         ]
@@ -1188,7 +1188,7 @@
         "price": 5790,
         "size": 46,
         "color": "Черный",
-        "icon": "",
+        "icon": "skirt_icon.png",
         "feedbacks": [
             "Тестовый отзыв"
         ]
@@ -1200,7 +1200,7 @@
         "price": 5790,
         "size": 40,
         "color": "Серый",
-        "icon": "",
+        "icon": "skirt_icon.png",
         "feedbacks": [
             "Тестовый отзыв"
         ]
@@ -1211,7 +1211,7 @@
         "price": 5790,
         "size": 42,
         "color": "Серый",
-        "icon": "",
+        "icon": "skirt_icon.png",
         "feedbacks": [
             "Тестовый отзыв"
         ]
@@ -1222,7 +1222,7 @@
         "price": 5790,
         "size": 44,
         "color": "Серый",
-        "icon": "",
+        "icon": "skirt_icon.png",
         "feedbacks": [
             "Тестовый отзыв"
         ]
@@ -1233,7 +1233,7 @@
         "price": 5790,
         "size": 46,
         "color": "Серый",
-        "icon": "",
+        "icon": "skirt_icon.png",
         "feedbacks": [
             "Тестовый отзыв"
         ]
@@ -1245,7 +1245,7 @@
         "price": 5790,
         "size": 40,
         "color": "Белый",
-        "icon": "",
+        "icon": "skirt_icon.png",
         "feedbacks": [
             "Тестовый отзыв"
         ]
@@ -1256,7 +1256,7 @@
         "price": 5790,
         "size": 42,
         "color": "Белый",
-        "icon": "",
+        "icon": "skirt_icon.png",
         "feedbacks": [
             "Тестовый отзыв"
         ]
@@ -1267,7 +1267,7 @@
         "price": 5790,
         "size": 44,
         "color": "Белый",
-        "icon": "",
+        "icon": "skirt_icon.png",
         "feedbacks": [
             "Тестовый отзыв"
         ]
@@ -1278,7 +1278,7 @@
         "price": 5790,
         "size": 46,
         "color": "Белый",
-        "icon": "",
+        "icon": "skirt_icon.png",
         "feedbacks": [
             "Тестовый отзыв"
         ]
@@ -1293,7 +1293,7 @@
         "price": 1990,
         "size": 40,
         "color": "Синий",
-        "icon": "",
+        "icon": "winter_set_icon.png",
         "feedbacks": [
             "Тестовый отзыв"
         ]
@@ -1304,7 +1304,7 @@
         "price": 1990,
         "size": 42,
         "color": "Синий",
-        "icon": "",
+        "icon": "winter_set_icon.png",
         "feedbacks": [
             "Тестовый отзыв"
         ]
@@ -1315,7 +1315,7 @@
         "price": 1990,
         "size": 44,
         "color": "Синий",
-        "icon": "",
+        "icon": "winter_set_icon.png",
         "feedbacks": [
             "Тестовый отзыв"
         ]
@@ -1326,7 +1326,7 @@
         "price": 1990,
         "size": 46,
         "color": "Синий",
-        "icon": "",
+        "icon": "winter_set_icon.png",
         "feedbacks": [
             "Тестовый отзыв"
         ]
@@ -1339,7 +1339,7 @@
         "price": 1990,
         "size": 40,
         "color": "Черный",
-        "icon": "",
+        "icon": "winter_set_icon.png",
         "feedbacks": [
             "Тестовый отзыв"
         ]
@@ -1350,7 +1350,7 @@
         "price": 1990,
         "size": 42,
         "color": "Черный",
-        "icon": "",
+        "icon": "winter_set_icon.png",
         "feedbacks": [
             "Тестовый отзыв"
         ]
@@ -1361,7 +1361,7 @@
         "price": 1990,
         "size": 44,
         "color": "Черный",
-        "icon": "",
+        "icon": "winter_set_icon.png",
         "feedbacks": [
             "Тестовый отзыв"
         ]
@@ -1372,7 +1372,7 @@
         "price": 1990,
         "size": 46,
         "color": "Черный",
-        "icon": "",
+        "icon": "winter_set_icon.png",
         "feedbacks": [
             "Тестовый отзыв"
         ]
@@ -1385,7 +1385,7 @@
         "price": 1990,
         "size": 40,
         "color": "Серый",
-        "icon": "",
+        "icon": "winter_set_icon.png",
         "feedbacks": [
             "Тестовый отзыв"
         ]
@@ -1396,7 +1396,7 @@
         "price": 1990,
         "size": 42,
         "color": "Серый",
-        "icon": "",
+        "icon": "winter_set_icon.png",
         "feedbacks": [
             "Тестовый отзыв"
         ]
@@ -1407,7 +1407,7 @@
         "price": 1990,
         "size": 44,
         "color": "Серый",
-        "icon": "",
+        "icon": "winter_set_icon.png",
         "feedbacks": [
             "Тестовый отзыв"
         ]
@@ -1418,7 +1418,7 @@
         "price": 1990,
         "size": 46,
         "color": "Серый",
-        "icon": "",
+        "icon": "winter_set_icon.png",
         "feedbacks": [
             "Тестовый отзыв"
         ]
@@ -1431,7 +1431,7 @@
         "price": 1990,
         "size": 40,
         "color": "Белый",
-        "icon": "",
+        "icon": "winter_set_icon.png",
         "feedbacks": [
             "Тестовый отзыв"
         ]
@@ -1442,7 +1442,7 @@
         "price": 1990,
         "size": 42,
         "color": "Белый",
-        "icon": "",
+        "icon": "winter_set_icon.png",
         "feedbacks": [
             "Тестовый отзыв"
         ]
@@ -1453,7 +1453,7 @@
         "price": 1990,
         "size": 44,
         "color": "Белый",
-        "icon": "",
+        "icon": "winter_set_icon.png",
         "feedbacks": [
             "Тестовый отзыв"
         ]
@@ -1464,7 +1464,7 @@
         "price": 1990,
         "size": 46,
         "color": "Белый",
-        "icon": "",
+        "icon": "winter_set_icon.png",
         "feedbacks": [
             "Тестовый отзыв"
         ]
@@ -1479,7 +1479,7 @@
         "price": 4490,
         "size": 40,
         "color": "Синий",
-        "icon": "",
+        "icon": "inbox_icon.png",
         "feedbacks": [
             "Тестовый отзыв"
         ]
@@ -1490,7 +1490,7 @@
         "price": 4490,
         "size": 42,
         "color": "Синий",
-        "icon": "",
+        "icon": "inbox_icon.png",
         "feedbacks": [
             "Тестовый отзыв"
         ]
@@ -1501,7 +1501,7 @@
         "price": 4490,
         "size": 44,
         "color": "Синий",
-        "icon": "",
+        "icon": "inbox_icon.png",
         "feedbacks": [
             "Тестовый отзыв"
         ]
@@ -1512,7 +1512,7 @@
         "price": 4490,
         "size": 46,
         "color": "Синий",
-        "icon": "",
+        "icon": "inbox_icon.png",
         "feedbacks": [
             "Тестовый отзыв"
         ]
@@ -1524,7 +1524,7 @@
         "price": 4490,
         "size": 40,
         "color": "Черный",
-        "icon": "",
+        "icon": "inbox_icon.png",
         "feedbacks": [
             "Тестовый отзыв"
         ]
@@ -1535,7 +1535,7 @@
         "price": 4490,
         "size": 42,
         "color": "Черный",
-        "icon": "",
+        "icon": "inbox_icon.png",
         "feedbacks": [
             "Тестовый отзыв"
         ]
@@ -1546,7 +1546,7 @@
         "price": 4490,
         "size": 44,
         "color": "Черный",
-        "icon": "",
+        "icon": "inbox_icon.png",
         "feedbacks": [
             "Тестовый отзыв"
         ]
@@ -1557,7 +1557,7 @@
         "price": 4490,
         "size": 46,
         "color": "Черный",
-        "icon": "",
+        "icon": "inbox_icon.png",
         "feedbacks": [
             "Тестовый отзыв"
         ]
@@ -1569,7 +1569,7 @@
         "price": 4490,
         "size": 40,
         "color": "Серый",
-        "icon": "",
+        "icon": "inbox_icon.png",
         "feedbacks": [
             "Тестовый отзыв"
         ]
@@ -1580,7 +1580,7 @@
         "price": 4490,
         "size": 42,
         "color": "Серый",
-        "icon": "",
+        "icon": "inbox_icon.png",
         "feedbacks": [
             "Тестовый отзыв"
         ]
@@ -1591,7 +1591,7 @@
         "price": 4490,
         "size": 44,
         "color": "Серый",
-        "icon": "",
+        "icon": "inbox_icon.png",
         "feedbacks": [
             "Тестовый отзыв"
         ]
@@ -1602,7 +1602,7 @@
         "price": 4490,
         "size": 46,
         "color": "Серый",
-        "icon": "",
+        "icon": "inbox_icon.png",
         "feedbacks": [
             "Тестовый отзыв"
         ]
@@ -1614,7 +1614,7 @@
         "price": 4490,
         "size": 40,
         "color": "Белый",
-        "icon": "",
+        "icon": "inbox_icon.png",
         "feedbacks": [
             "Тестовый отзыв"
         ]
@@ -1625,7 +1625,7 @@
         "price": 4490,
         "size": 42,
         "color": "Белый",
-        "icon": "",
+        "icon": "inbox_icon.png",
         "feedbacks": [
             "Тестовый отзыв"
         ]
@@ -1636,7 +1636,7 @@
         "price": 4490,
         "size": 44,
         "color": "Белый",
-        "icon": "",
+        "icon": "inbox_icon.png",
         "feedbacks": [
             "Тестовый отзыв"
         ]
@@ -1647,7 +1647,7 @@
         "price": 4490,
         "size": 46,
         "color": "Белый",
-        "icon": "",
+        "icon": "inbox_icon.png",
         "feedbacks": [
             "Тестовый отзыв"
         ]
@@ -1658,44 +1658,44 @@
     
     "24100101":
     {
-        "name": "Туфли женские",
+        "name": "Кеды женские",
         "price": 5290,
         "size": 40,
         "color": "Синий",
-        "icon": "",
+        "icon": "shoes_sneakers_uniform_icon.png",
         "feedbacks": [
             "Тестовый отзыв"
         ]
     },
     "24100102":
     {
-        "name": "Туфли женские",
+        "name": "Кеды женские",
         "price": 5290,
         "size": 42,
         "color": "Синий",
-        "icon": "",
+        "icon": "shoes_sneakers_uniform_icon.png",
         "feedbacks": [
             "Тестовый отзыв"
         ]
     },
     "24100103":
     {
-        "name": "Туфли женские",
+        "name": "Кеды женские",
         "price": 5290,
         "size": 44,
         "color": "Синий",
-        "icon": "",
+        "icon": "shoes_sneakers_uniform_icon.png",
         "feedbacks": [
             "Тестовый отзыв"
         ]
     },
     "24100104":
     {
-        "name": "Туфли женские",
+        "name": "Кеды женские",
         "price": 5290,
         "size": 46,
         "color": "Синий",
-        "icon": "",
+        "icon": "shoes_sneakers_uniform_icon.png",
         "feedbacks": [
             "Тестовый отзыв"
         ]
@@ -1703,44 +1703,44 @@
     
     "24100201":
     {
-        "name": "Туфли женские",
+        "name": "Кеды женские",
         "price": 5290,
         "size": 40,
         "color": "Черный",
-        "icon": "",
+        "icon": "shoes_sneakers_uniform_icon.png",
         "feedbacks": [
             "Тестовый отзыв"
         ]
     },
     "24100202":
     {
-        "name": "Туфли женские",
+        "name": "Кеды женские",
         "price": 5290,
         "size": 42,
         "color": "Черный",
-        "icon": "",
+        "icon": "shoes_sneakers_uniform_icon.png",
         "feedbacks": [
             "Тестовый отзыв"
         ]
     },
     "24100203":
     {
-        "name": "Туфли женские",
+        "name": "Кеды женские",
         "price": 5290,
         "size": 44,
         "color": "Черный",
-        "icon": "",
+        "icon": "shoes_sneakers_uniform_icon.png",
         "feedbacks": [
             "Тестовый отзыв"
         ]
     },
     "24100204":
     {
-        "name": "Туфли женские",
+        "name": "Кеды женские",
         "price": 5290,
         "size": 46,
         "color": "Черный",
-        "icon": "",
+        "icon": "shoes_sneakers_uniform_icon.png",
         "feedbacks": [
             "Тестовый отзыв"
         ]
@@ -1748,44 +1748,44 @@
     
     "24100301":
     {
-        "name": "Туфли женские",
+        "name": "Кеды женские",
         "price": 5290,
         "size": 40,
         "color": "Серый",
-        "icon": "",
+        "icon": "shoes_sneakers_uniform_icon.png",
         "feedbacks": [
             "Тестовый отзыв"
         ]
     },
     "24100302":
     {
-        "name": "Туфли женские",
+        "name": "Кеды женские",
         "price": 5290,
         "size": 42,
         "color": "Серый",
-        "icon": "",
+        "icon": "shoes_sneakers_uniform_icon.png",
         "feedbacks": [
             "Тестовый отзыв"
         ]
     },
     "24100303":
     {
-        "name": "Туфли женские",
+        "name": "Кеды женские",
         "price": 5290,
         "size": 44,
         "color": "Серый",
-        "icon": "",
+        "icon": "shoes_sneakers_uniform_icon.png",
         "feedbacks": [
             "Тестовый отзыв"
         ]
     },
     "24100304":
     {
-        "name": "Туфли женские",
+        "name": "Кеды женские",
         "price": 5290,
         "size": 46,
         "color": "Серый",
-        "icon": "",
+        "icon": "shoes_sneakers_uniform_icon.png",
         "feedbacks": [
             "Тестовый отзыв"
         ]
@@ -1793,44 +1793,3155 @@
     
     "24100401":
     {
-        "name": "Туфли женские",
+        "name": "Кеды женские",
         "price": 5290,
         "size": 40,
         "color": "Белый",
-        "icon": "",
+        "icon": "shoes_sneakers_uniform_icon.png",
         "feedbacks": [
             "Тестовый отзыв"
         ]
     },
     "24100402":
     {
-        "name": "Туфли женские",
+        "name": "Кеды женские",
         "price": 5290,
         "size": 42,
         "color": "Белый",
-        "icon": "",
+        "icon": "shoes_sneakers_uniform_icon.png",
         "feedbacks": [
             "Тестовый отзыв"
         ]
     },
     "24100403":
     {
-        "name": "Туфли женские",
+        "name": "Кеды женские",
         "price": 5290,
         "size": 44,
         "color": "Белый",
-        "icon": "",
+        "icon": "shoes_sneakers_uniform_icon.png",
         "feedbacks": [
             "Тестовый отзыв"
         ]
     },
     "24100404":
     {
-        "name": "Туфли женские",
+        "name": "Кеды женские",
         "price": 5290,
         "size": 46,
         "color": "Белый",
-        "icon": "",
+        "icon": "shoes_sneakers_uniform_icon.png",
+        "feedbacks": [
+            "Тестовый отзыв"
+        ]
+    },
+    
+    
+    
+    
+    "24110101":
+    {
+        "name": "Свитер",
+        "price": 2990,
+        "size": 40,
+        "color": "Синий",
+        "icon": "sweater_icon.png",
+        "feedbacks": [
+            "Тестовый отзыв"
+        ]
+    },
+    "24110102":
+    {
+        "name": "Свитер",
+        "price": 2990,
+        "size": 42,
+        "color": "Синий",
+        "icon": "sweater_icon.png",
+        "feedbacks": [
+            "Тестовый отзыв"
+        ]
+    },
+    "24110103":
+    {
+        "name": "Свитер",
+        "price": 2990,
+        "size": 44,
+        "color": "Синий",
+        "icon": "sweater_icon.png",
+        "feedbacks": [
+            "Тестовый отзыв"
+        ]
+    },
+    "24110104":
+    {
+        "name": "Свитер",
+        "price": 2990,
+        "size": 46,
+        "color": "Синий",
+        "icon": "sweater_icon.png",
+        "feedbacks": [
+            "Тестовый отзыв"
+        ]
+    },
+    
+    "24110201":
+    {
+        "name": "Свитер",
+        "price": 2990,
+        "size": 40,
+        "color": "Черный",
+        "icon": "sweater_icon.png",
+        "feedbacks": [
+            "Тестовый отзыв"
+        ]
+    },
+    "24110202":
+    {
+        "name": "Свитер",
+        "price": 2990,
+        "size": 42,
+        "color": "Черный",
+        "icon": "sweater_icon.png",
+        "feedbacks": [
+            "Тестовый отзыв"
+        ]
+    },
+    "24110203":
+    {
+        "name": "Свитер",
+        "price": 2990,
+        "size": 44,
+        "color": "Черный",
+        "icon": "sweater_icon.png",
+        "feedbacks": [
+            "Тестовый отзыв"
+        ]
+    },
+    "24110204":
+    {
+        "name": "Свитер",
+        "price": 2990,
+        "size": 46,
+        "color": "Черный",
+        "icon": "sweater_icon.png",
+        "feedbacks": [
+            "Тестовый отзыв"
+        ]
+    },
+    
+    "24110301":
+    {
+        "name": "Свитер",
+        "price": 2990,
+        "size": 40,
+        "color": "Серый",
+        "icon": "sweater_icon.png",
+        "feedbacks": [
+            "Тестовый отзыв"
+        ]
+    },
+    "24110302":
+    {
+        "name": "Свитер",
+        "price": 2990,
+        "size": 42,
+        "color": "Серый",
+        "icon": "sweater_icon.png",
+        "feedbacks": [
+            "Тестовый отзыв"
+        ]
+    },
+    "24110303":
+    {
+        "name": "Свитер",
+        "price": 2990,
+        "size": 44,
+        "color": "Серый",
+        "icon": "sweater_icon.png",
+        "feedbacks": [
+            "Тестовый отзыв"
+        ]
+    },
+    "24110304":
+    {
+        "name": "Свитер",
+        "price": 2990,
+        "size": 46,
+        "color": "Серый",
+        "icon": "sweater_icon.png",
+        "feedbacks": [
+            "Тестовый отзыв"
+        ]
+    },
+    
+    "24110401":
+    {
+        "name": "Свитер",
+        "price": 2990,
+        "size": 40,
+        "color": "Белый",
+        "icon": "sweater_icon.png",
+        "feedbacks": [
+            "Тестовый отзыв"
+        ]
+    },
+    "24110402":
+    {
+        "name": "Свитер",
+        "price": 2990,
+        "size": 42,
+        "color": "Белый",
+        "icon": "sweater_icon.png",
+        "feedbacks": [
+            "Тестовый отзыв"
+        ]
+    },
+    "24110403":
+    {
+        "name": "Свитер",
+        "price": 2990,
+        "size": 44,
+        "color": "Белый",
+        "icon": "sweater_icon.png",
+        "feedbacks": [
+            "Тестовый отзыв"
+        ]
+    },
+    "24110404":
+    {
+        "name": "Свитер",
+        "price": 2990,
+        "size": 46,
+        "color": "Белый",
+        "icon": "sweater_icon.png",
+        "feedbacks": [
+            "Тестовый отзыв"
+        ]
+    },
+    
+    
+    
+    
+    "24120101":
+    {
+        "name": "Бейсболка",
+        "price": 1090,
+        "size": 40,
+        "color": "Синий",
+        "icon": "hat_icon.png",
+        "feedbacks": [
+            "Тестовый отзыв"
+        ]
+    },
+    "24120102":
+    {
+        "name": "Бейсболка",
+        "price": 1090,
+        "size": 42,
+        "color": "Синий",
+        "icon": "hat_icon.png",
+        "feedbacks": [
+            "Тестовый отзыв"
+        ]
+    },
+    "24120103":
+    {
+        "name": "Бейсболка",
+        "price": 1090,
+        "size": 44,
+        "color": "Синий",
+        "icon": "hat_icon.png",
+        "feedbacks": [
+            "Тестовый отзыв"
+        ]
+    },
+    "24120104":
+    {
+        "name": "Бейсболка",
+        "price": 1090,
+        "size": 46,
+        "color": "Синий",
+        "icon": "hat_icon.png",
+        "feedbacks": [
+            "Тестовый отзыв"
+        ]
+    },
+    
+    "24120201":
+    {
+        "name": "Бейсболка",
+        "price": 1090,
+        "size": 40,
+        "color": "Черный",
+        "icon": "hat_icon.png",
+        "feedbacks": [
+            "Тестовый отзыв"
+        ]
+    },
+    "24120202":
+    {
+        "name": "Бейсболка",
+        "price": 1090,
+        "size": 42,
+        "color": "Черный",
+        "icon": "hat_icon.png",
+        "feedbacks": [
+            "Тестовый отзыв"
+        ]
+    },
+    "24120203":
+    {
+        "name": "Бейсболка",
+        "price": 1090,
+        "size": 44,
+        "color": "Черный",
+        "icon": "hat_icon.png",
+        "feedbacks": [
+            "Тестовый отзыв"
+        ]
+    },
+    "24120204":
+    {
+        "name": "Бейсболка",
+        "price": 1090,
+        "size": 46,
+        "color": "Черный",
+        "icon": "hat_icon.png",
+        "feedbacks": [
+            "Тестовый отзыв"
+        ]
+    },
+    
+    "24120301":
+    {
+        "name": "Бейсболка",
+        "price": 1090,
+        "size": 40,
+        "color": "Серый",
+        "icon": "hat_icon.png",
+        "feedbacks": [
+            "Тестовый отзыв"
+        ]
+    },
+    "24120302":
+    {
+        "name": "Бейсболка",
+        "price": 1090,
+        "size": 42,
+        "color": "Серый",
+        "icon": "hat_icon.png",
+        "feedbacks": [
+            "Тестовый отзыв"
+        ]
+    },
+    "24120303":
+    {
+        "name": "",
+        "price": 1090,
+        "size": 44,
+        "color": "Серый",
+        "icon": "hat_icon.png",
+        "feedbacks": [
+            "Тестовый отзыв"
+        ]
+    },
+    "24120304":
+    {
+        "name": "Бейсболка",
+        "price": 1090,
+        "size": 46,
+        "color": "Серый",
+        "icon": "hat_icon.png",
+        "feedbacks": [
+            "Тестовый отзыв"
+        ]
+    },
+    
+    "24120401":
+    {
+        "name": "Бейсболка",
+        "price": 1090,
+        "size": 40,
+        "color": "Белый",
+        "icon": "hat_icon.png",
+        "feedbacks": [
+            "Тестовый отзыв"
+        ]
+    },
+    "24120402":
+    {
+        "name": "Бейсболка",
+        "price": 1090,
+        "size": 42,
+        "color": "Белый",
+        "icon": "hat_icon.png",
+        "feedbacks": [
+            "Тестовый отзыв"
+        ]
+    },
+    "24120403":
+    {
+        "name": "Бейсболка",
+        "price": 1090,
+        "size": 44,
+        "color": "Белый",
+        "icon": "hat_icon.png",
+        "feedbacks": [
+            "Тестовый отзыв"
+        ]
+    },
+    "24120404":
+    {
+        "name": "Бейсболка",
+        "price": 1090,
+        "size": 46,
+        "color": "Белый",
+        "icon": "hat_icon.png",
+        "feedbacks": [
+            "Тестовый отзыв"
+        ]
+    },
+    
+    
+    
+    
+    "24130101":
+    {
+        "name": "Домашние тапки",
+        "price": 990,
+        "size": 40,
+        "color": "Синий",
+        "icon": "home_shoes_icon.png",
+        "feedbacks": [
+            "Тестовый отзыв"
+        ]
+    },
+    "24130102":
+    {
+        "name": "Домашние тапки",
+        "price": 990,
+        "size": 42,
+        "color": "Синий",
+        "icon": "home_shoes_icon.png",
+        "feedbacks": [
+            "Тестовый отзыв"
+        ]
+    },
+    "24130103":
+    {
+        "name": "Домашние тапки",
+        "price": 990,
+        "size": 44,
+        "color": "Синий",
+        "icon": "home_shoes_icon.png",
+        "feedbacks": [
+            "Тестовый отзыв"
+        ]
+    },
+    "24130104":
+    {
+        "name": "Домашние тапки",
+        "price": 990,
+        "size": 46,
+        "color": "Синий",
+        "icon": "home_shoes_icon.png",
+        "feedbacks": [
+            "Тестовый отзыв"
+        ]
+    },
+    
+    "24130201":
+    {
+        "name": "Домашние тапки",
+        "price": 990,
+        "size": 40,
+        "color": "Черный",
+        "icon": "home_shoes_icon.png",
+        "feedbacks": [
+            "Тестовый отзыв"
+        ]
+    },
+    "24130202":
+    {
+        "name": "Домашние тапки",
+        "price": 990,
+        "size": 42,
+        "color": "Черный",
+        "icon": "home_shoes_icon.png",
+        "feedbacks": [
+            "Тестовый отзыв"
+        ]
+    },
+    "24130203":
+    {
+        "name": "Домашние тапки",
+        "price": 990,
+        "size": 44,
+        "color": "Черный",
+        "icon": "home_shoes_icon.png",
+        "feedbacks": [
+            "Тестовый отзыв"
+        ]
+    },
+    "24130204":
+    {
+        "name": "Домашние тапки",
+        "price": 990,
+        "size": 46,
+        "color": "Черный",
+        "icon": "home_shoes_icon.png",
+        "feedbacks": [
+            "Тестовый отзыв"
+        ]
+    },
+    
+    "24130301":
+    {
+        "name": "Домашние тапки",
+        "price": 990,
+        "size": 40,
+        "color": "Серый",
+        "icon": "home_shoes_icon.png",
+        "feedbacks": [
+            "Тестовый отзыв"
+        ]
+    },
+    "24130302":
+    {
+        "name": "Домашние тапки",
+        "price": 990,
+        "size": 42,
+        "color": "Серый",
+        "icon": "home_shoes_icon.png",
+        "feedbacks": [
+            "Тестовый отзыв"
+        ]
+    },
+    "24130303":
+    {
+        "name": "Домашние тапки",
+        "price": 990,
+        "size": 44,
+        "color": "Серый",
+        "icon": "home_shoes_icon.png",
+        "feedbacks": [
+            "Тестовый отзыв"
+        ]
+    },
+    "24130304":
+    {
+        "name": "Домашние тапки",
+        "price": 990,
+        "size": 46,
+        "color": "Серый",
+        "icon": "home_shoes_icon.png",
+        "feedbacks": [
+            "Тестовый отзыв"
+        ]
+    },
+    
+    "24130401":
+    {
+        "name": "Домашние тапки",
+        "price": 990,
+        "size": 40,
+        "color": "Белый",
+        "icon": "home_shoes_icon.png",
+        "feedbacks": [
+            "Тестовый отзыв"
+        ]
+    },
+    "24130402":
+    {
+        "name": "Домашние тапки",
+        "price": 990,
+        "size": 42,
+        "color": "Белый",
+        "icon": "home_shoes_icon.png",
+        "feedbacks": [
+            "Тестовый отзыв"
+        ]
+    },
+    "24130403":
+    {
+        "name": "Домашние тапки",
+        "price": 990,
+        "size": 44,
+        "color": "Белый",
+        "icon": "home_shoes_icon.png",
+        "feedbacks": [
+            "Тестовый отзыв"
+        ]
+    },
+    "24130404":
+    {
+        "name": "Домашние тапки",
+        "price": 990,
+        "size": 46,
+        "color": "Белый",
+        "icon": "home_shoes_icon.png",
+        "feedbacks": [
+            "Тестовый отзыв"
+        ]
+    },
+    
+    
+    
+    
+    "24140101":
+    {
+        "name": "Джемпер зимний",
+        "price": 5790,
+        "size": 40,
+        "color": "Синий",
+        "icon": "jumper_winter_icon.png",
+        "feedbacks": [
+            "Тестовый отзыв"
+        ]
+    },
+    "24140102":
+    {
+        "name": "Джемпер зимний",
+        "price": 5790,
+        "size": 42,
+        "color": "Синий",
+        "icon": "jumper_winter_icon.png",
+        "feedbacks": [
+            "Тестовый отзыв"
+        ]
+    },
+    "24140103":
+    {
+        "name": "Джемпер зимний",
+        "price": 5790,
+        "size": 44,
+        "color": "Синий",
+        "icon": "jumper_winter_icon.png",
+        "feedbacks": [
+            "Тестовый отзыв"
+        ]
+    },
+    "24140104":
+    {
+        "name": "Джемпер зимний",
+        "price": 5790,
+        "size": 46,
+        "color": "Синий",
+        "icon": "jumper_winter_icon.png",
+        "feedbacks": [
+            "Тестовый отзыв"
+        ]
+    },
+    
+    "24140201":
+    {
+        "name": "Джемпер зимний",
+        "price": 5790,
+        "size": 40,
+        "color": "Черный",
+        "icon": "jumper_winter_icon.png",
+        "feedbacks": [
+            "Тестовый отзыв"
+        ]
+    },
+    "24140202":
+    {
+        "name": "Джемпер зимний",
+        "price": 5790,
+        "size": 42,
+        "color": "Черный",
+        "icon": "jumper_winter_icon.png",
+        "feedbacks": [
+            "Тестовый отзыв"
+        ]
+    },
+    "24140203":
+    {
+        "name": "Джемпер зимний",
+        "price": 5790,
+        "size": 44,
+        "color": "Черный",
+        "icon": "jumper_winter_icon.png",
+        "feedbacks": [
+            "Тестовый отзыв"
+        ]
+    },
+    "24140204":
+    {
+        "name": "Джемпер зимний",
+        "price": 5790,
+        "size": 46,
+        "color": "Черный",
+        "icon": "jumper_winter_icon.png",
+        "feedbacks": [
+            "Тестовый отзыв"
+        ]
+    },
+    
+    "24140301":
+    {
+        "name": "Джемпер зимний",
+        "price": 5790,
+        "size": 40,
+        "color": "Серый",
+        "icon": "jumper_winter_icon.png",
+        "feedbacks": [
+            "Тестовый отзыв"
+        ]
+    },
+    "24140302":
+    {
+        "name": "Джемпер зимний",
+        "price": 5790,
+        "size": 42,
+        "color": "Серый",
+        "icon": "jumper_winter_icon.png",
+        "feedbacks": [
+            "Тестовый отзыв"
+        ]
+    },
+    "24140303":
+    {
+        "name": "Джемпер зимний",
+        "price": 5790,
+        "size": 44,
+        "color": "Серый",
+        "icon": "jumper_winter_icon.png",
+        "feedbacks": [
+            "Тестовый отзыв"
+        ]
+    },
+    "24140304":
+    {
+        "name": "Джемпер зимний",
+        "price": 5790,
+        "size": 46,
+        "color": "Серый",
+        "icon": "jumper_winter_icon.png",
+        "feedbacks": [
+            "Тестовый отзыв"
+        ]
+    },
+    
+    "24140401":
+    {
+        "name": "Джемпер зимний",
+        "price": 5790,
+        "size": 40,
+        "color": "Белый",
+        "icon": "jumper_winter_icon.png",
+        "feedbacks": [
+            "Тестовый отзыв"
+        ]
+    },
+    "24140402":
+    {
+        "name": "Джемпер зимний",
+        "price": 5790,
+        "size": 42,
+        "color": "Белый",
+        "icon": "jumper_winter_icon.png",
+        "feedbacks": [
+            "Тестовый отзыв"
+        ]
+    },
+    "24140403":
+    {
+        "name": "Джемпер зимний",
+        "price": 5790,
+        "size": 44,
+        "color": "Белый",
+        "icon": "jumper_winter_icon.png",
+        "feedbacks": [
+            "Тестовый отзыв"
+        ]
+    },
+    "24140404":
+    {
+        "name": "Джемпер зимний",
+        "price": 5790,
+        "size": 46,
+        "color": "Белый",
+        "icon": "jumper_winter_icon.png",
+        "feedbacks": [
+            "Тестовый отзыв"
+        ]
+    },
+    
+    
+    
+    
+    "24150101":
+    {
+        "name": "Майка с козой",
+        "price": 1090,
+        "size": 40,
+        "color": "Синий",
+        "icon": "mayka_icon.png",
+        "feedbacks": [
+            "Тестовый отзыв"
+        ]
+    },
+    "24150102":
+    {
+        "name": "Майка с козой",
+        "price": 1090,
+        "size": 42,
+        "color": "Синий",
+        "icon": "mayka_icon.png",
+        "feedbacks": [
+            "Тестовый отзыв"
+        ]
+    },
+    "24150103":
+    {
+        "name": "Майка с козой",
+        "price": 0,
+        "size": 44,
+        "color": "Синий",
+        "icon": "mayka_icon.png",
+        "feedbacks": [
+            "Тестовый отзыв"
+        ]
+    },
+    "24150104":
+    {
+        "name": "Майка с козой",
+        "price": 1090,
+        "size": 46,
+        "color": "Синий",
+        "icon": "mayka_icon.png",
+        "feedbacks": [
+            "Тестовый отзыв"
+        ]
+    },
+    
+    "24150201":
+    {
+        "name": "Майка с козой",
+        "price": 1090,
+        "size": 40,
+        "color": "Черный",
+        "icon": "mayka_icon.png",
+        "feedbacks": [
+            "Тестовый отзыв"
+        ]
+    },
+    "24150202":
+    {
+        "name": "Майка с козой",
+        "price": 1090,
+        "size": 42,
+        "color": "Черный",
+        "icon": "mayka_icon.png",
+        "feedbacks": [
+            "Тестовый отзыв"
+        ]
+    },
+    "24150203":
+    {
+        "name": "Майка с козой",
+        "price": 1090,
+        "size": 44,
+        "color": "Черный",
+        "icon": "mayka_icon.png",
+        "feedbacks": [
+            "Тестовый отзыв"
+        ]
+    },
+    "24150204":
+    {
+        "name": "Майка с козой",
+        "price": 1090,
+        "size": 46,
+        "color": "Черный",
+        "icon": "mayka_icon.png",
+        "feedbacks": [
+            "Тестовый отзыв"
+        ]
+    },
+    
+    "24150301":
+    {
+        "name": "Майка с козой",
+        "price": 1090,
+        "size": 40,
+        "color": "Серый",
+        "icon": "mayka_icon.png",
+        "feedbacks": [
+            "Тестовый отзыв"
+        ]
+    },
+    "24150302":
+    {
+        "name": "Майка с козой",
+        "price": 1090,
+        "size": 42,
+        "color": "Серый",
+        "icon": "mayka_icon.png",
+        "feedbacks": [
+            "Тестовый отзыв"
+        ]
+    },
+    "24150303":
+    {
+        "name": "Майка с козой",
+        "price": 1090,
+        "size": 44,
+        "color": "Серый",
+        "icon": "mayka_icon.png",
+        "feedbacks": [
+            "Тестовый отзыв"
+        ]
+    },
+    "24150304":
+    {
+        "name": "Майка с козой",
+        "price": 1090,
+        "size": 46,
+        "color": "Серый",
+        "icon": "mayka_icon.png",
+        "feedbacks": [
+            "Тестовый отзыв"
+        ]
+    },
+    
+    "24150401":
+    {
+        "name": "Майка с козой",
+        "price": 1090,
+        "size": 40,
+        "color": "Белый",
+        "icon": "mayka_icon.png",
+        "feedbacks": [
+            "Тестовый отзыв"
+        ]
+    },
+    "24150402":
+    {
+        "name": "Майка с козой",
+        "price": 1090,
+        "size": 42,
+        "color": "Белый",
+        "icon": "mayka_icon.png",
+        "feedbacks": [
+            "Тестовый отзыв"
+        ]
+    },
+    "24150403":
+    {
+        "name": "Майка с козой",
+        "price": 1090,
+        "size": 44,
+        "color": "Белый",
+        "icon": "mayka_icon.png",
+        "feedbacks": [
+            "Тестовый отзыв"
+        ]
+    },
+    "24150404":
+    {
+        "name": "Майка с козой",
+        "price": 1090,
+        "size": 46,
+        "color": "Белый",
+        "icon": "mayka_icon.png",
+        "feedbacks": [
+            "Тестовый отзыв"
+        ]
+    },
+    
+    
+    
+    
+    "24160101":
+    {
+        "name": "Пижама",
+        "price": 1990,
+        "size": 40,
+        "color": "Синий",
+        "icon": "pajamas_icon.png",
+        "feedbacks": [
+            "Тестовый отзыв"
+        ]
+    },
+    "24160102":
+    {
+        "name": "Пижама",
+        "price": 1990,
+        "size": 42,
+        "color": "Синий",
+        "icon": "pajamas_icon.png",
+        "feedbacks": [
+            "Тестовый отзыв"
+        ]
+    },
+    "24160103":
+    {
+        "name": "Пижама",
+        "price": 1990,
+        "size": 44,
+        "color": "Синий",
+        "icon": "pajamas_icon.png",
+        "feedbacks": [
+            "Тестовый отзыв"
+        ]
+    },
+    "24160104":
+    {
+        "name": "Пижама",
+        "price": 1990,
+        "size": 46,
+        "color": "Синий",
+        "icon": "pajamas_icon.png",
+        "feedbacks": [
+            "Тестовый отзыв"
+        ]
+    },
+    
+    "24160201":
+    {
+        "name": "Пижама",
+        "price": 1990,
+        "size": 40,
+        "color": "Черный",
+        "icon": "pajamas_icon.png",
+        "feedbacks": [
+            "Тестовый отзыв"
+        ]
+    },
+    "24160202":
+    {
+        "name": "Пижама",
+        "price": 1990,
+        "size": 42,
+        "color": "Черный",
+        "icon": "pajamas_icon.png",
+        "feedbacks": [
+            "Тестовый отзыв"
+        ]
+    },
+    "24160203":
+    {
+        "name": "Пижама",
+        "price": 1990,
+        "size": 44,
+        "color": "Черный",
+        "icon": "pajamas_icon.png",
+        "feedbacks": [
+            "Тестовый отзыв"
+        ]
+    },
+    "24160204":
+    {
+        "name": "Пижама",
+        "price": 1990,
+        "size": 46,
+        "color": "Черный",
+        "icon": "pajamas_icon.png",
+        "feedbacks": [
+            "Тестовый отзыв"
+        ]
+    },
+    
+    "24160301":
+    {
+        "name": "Пижама",
+        "price": 1990,
+        "size": 40,
+        "color": "Серый",
+        "icon": "pajamas_icon.png",
+        "feedbacks": [
+            "Тестовый отзыв"
+        ]
+    },
+    "24160302":
+    {
+        "name": "Пижама",
+        "price": 1990,
+        "size": 42,
+        "color": "Серый",
+        "icon": "pajamas_icon.png",
+        "feedbacks": [
+            "Тестовый отзыв"
+        ]
+    },
+    "24160303":
+    {
+        "name": "Пижама",
+        "price": 1990,
+        "size": 44,
+        "color": "Серый",
+        "icon": "pajamas_icon.png",
+        "feedbacks": [
+            "Тестовый отзыв"
+        ]
+    },
+    "24160304":
+    {
+        "name": "Пижама",
+        "price": 1990,
+        "size": 46,
+        "color": "Серый",
+        "icon": "pajamas_icon.png",
+        "feedbacks": [
+            "Тестовый отзыв"
+        ]
+    },
+    
+    "24160401":
+    {
+        "name": "Пижама",
+        "price": 1990,
+        "size": 40,
+        "color": "Белый",
+        "icon": "pajamas_icon.png",
+        "feedbacks": [
+            "Тестовый отзыв"
+        ]
+    },
+    "24160402":
+    {
+        "name": "Пижама",
+        "price": 0,
+        "size": 42,
+        "color": "Белый",
+        "icon": "pajamas_icon.png",
+        "feedbacks": [
+            "Тестовый отзыв"
+        ]
+    },
+    "24160403":
+    {
+        "name": "Пижама",
+        "price": 1990,
+        "size": 44,
+        "color": "Белый",
+        "icon": "pajamas_icon.png",
+        "feedbacks": [
+            "Тестовый отзыв"
+        ]
+    },
+    "24160404":
+    {
+        "name": "Пижама",
+        "price": 1990,
+        "size": 46,
+        "color": "Белый",
+        "icon": "pajamas_icon.png",
+        "feedbacks": [
+            "Тестовый отзыв"
+        ]
+    },
+    
+    
+    
+    
+    "24170101":
+    {
+        "name": "Рубаха с карманами",
+        "price": 3790,
+        "size": 40,
+        "color": "Синий",
+        "icon": "shirt_clothing_icon.png",
+        "feedbacks": [
+            "Тестовый отзыв"
+        ]
+    },
+    "24170102":
+    {
+        "name": "Рубаха с карманами",
+        "price": 3790,
+        "size": 42,
+        "color": "Синий",
+        "icon": "shirt_clothing_icon.png",
+        "feedbacks": [
+            "Тестовый отзыв"
+        ]
+    },
+    "24170103":
+    {
+        "name": "Рубаха с карманами",
+        "price": 3790,
+        "size": 44,
+        "color": "Синий",
+        "icon": "shirt_clothing_icon.png",
+        "feedbacks": [
+            "Тестовый отзыв"
+        ]
+    },
+    "24170104":
+    {
+        "name": "Рубаха с карманами",
+        "price": 3790,
+        "size": 46,
+        "color": "Синий",
+        "icon": "shirt_clothing_icon.png",
+        "feedbacks": [
+            "Тестовый отзыв"
+        ]
+    },
+    
+    "24170201":
+    {
+        "name": "Рубаха с карманами",
+        "price": 3790,
+        "size": 40,
+        "color": "Черный",
+        "icon": "shirt_clothing_icon.png",
+        "feedbacks": [
+            "Тестовый отзыв"
+        ]
+    },
+    "24170202":
+    {
+        "name": "Рубаха с карманами",
+        "price": 3790,
+        "size": 42,
+        "color": "Черный",
+        "icon": "shirt_clothing_icon.png",
+        "feedbacks": [
+            "Тестовый отзыв"
+        ]
+    },
+    "24170203":
+    {
+        "name": "Рубаха с карманами",
+        "price": 3790,
+        "size": 44,
+        "color": "Черный",
+        "icon": "shirt_clothing_icon.png",
+        "feedbacks": [
+            "Тестовый отзыв"
+        ]
+    },
+    "24170204":
+    {
+        "name": "Рубаха с карманами",
+        "price": 3790,
+        "size": 46,
+        "color": "Черный",
+        "icon": "shirt_clothing_icon.png",
+        "feedbacks": [
+            "Тестовый отзыв"
+        ]
+    },
+    
+    "24170301":
+    {
+        "name": "Рубаха с карманами",
+        "price": 3790,
+        "size": 40,
+        "color": "Серый",
+        "icon": "shirt_clothing_icon.png",
+        "feedbacks": [
+            "Тестовый отзыв"
+        ]
+    },
+    "24170302":
+    {
+        "name": "Рубаха с карманами",
+        "price": 3790,
+        "size": 42,
+        "color": "Серый",
+        "icon": "shirt_clothing_icon.png",
+        "feedbacks": [
+            "Тестовый отзыв"
+        ]
+    },
+    "24170303":
+    {
+        "name": "Рубаха с карманами",
+        "price": 3790,
+        "size": 44,
+        "color": "Серый",
+        "icon": "shirt_clothing_icon.png",
+        "feedbacks": [
+            "Тестовый отзыв"
+        ]
+    },
+    "24170304":
+    {
+        "name": "Рубаха с карманами",
+        "price": 3790,
+        "size": 46,
+        "color": "Серый",
+        "icon": "shirt_clothing_icon.png",
+        "feedbacks": [
+            "Тестовый отзыв"
+        ]
+    },
+    
+    "24170401":
+    {
+        "name": "Рубаха с карманами",
+        "price": 3790,
+        "size": 40,
+        "color": "Белый",
+        "icon": "shirt_clothing_icon.png",
+        "feedbacks": [
+            "Тестовый отзыв"
+        ]
+    },
+    "24170402":
+    {
+        "name": "Рубаха с карманами",
+        "price": 3790,
+        "size": 42,
+        "color": "Белый",
+        "icon": "shirt_clothing_icon.png",
+        "feedbacks": [
+            "Тестовый отзыв"
+        ]
+    },
+    "24170403":
+    {
+        "name": "Рубаха с карманами",
+        "price": 3790,
+        "size": 44,
+        "color": "Белый",
+        "icon": "shirt_clothing_icon.png",
+        "feedbacks": [
+            "Тестовый отзыв"
+        ]
+    },
+    "24170404":
+    {
+        "name": "Рубаха с карманами",
+        "price": 3790,
+        "size": 46,
+        "color": "Белый",
+        "icon": "shirt_clothing_icon.png",
+        "feedbacks": [
+            "Тестовый отзыв"
+        ]
+    },
+    
+    
+    
+    
+    "24180101":
+    {
+        "name": "Рубаха",
+        "price": 3590,
+        "size": 40,
+        "color": "Синий",
+        "icon": "shirt_icon.png",
+        "feedbacks": [
+            "Тестовый отзыв"
+        ]
+    },
+    "24180102":
+    {
+        "name": "Рубаха",
+        "price": 3590,
+        "size": 42,
+        "color": "Синий",
+        "icon": "shirt_icon.png",
+        "feedbacks": [
+            "Тестовый отзыв"
+        ]
+    },
+    "24180103":
+    {
+        "name": "Рубаха",
+        "price": 3590,
+        "size": 44,
+        "color": "Синий",
+        "icon": "shirt_icon.png",
+        "feedbacks": [
+            "Тестовый отзыв"
+        ]
+    },
+    "24180104":
+    {
+        "name": "Рубаха",
+        "price": 3590,
+        "size": 46,
+        "color": "Синий",
+        "icon": "shirt_icon.png",
+        "feedbacks": [
+            "Тестовый отзыв"
+        ]
+    },
+    
+    "24180201":
+    {
+        "name": "Рубаха",
+        "price": 3590,
+        "size": 40,
+        "color": "Черный",
+        "icon": "shirt_icon.png",
+        "feedbacks": [
+            "Тестовый отзыв"
+        ]
+    },
+    "24180202":
+    {
+        "name": "Рубаха",
+        "price": 3590,
+        "size": 42,
+        "color": "Черный",
+        "icon": "shirt_icon.png",
+        "feedbacks": [
+            "Тестовый отзыв"
+        ]
+    },
+    "24180203":
+    {
+        "name": "Рубаха",
+        "price": 3590,
+        "size": 44,
+        "color": "Черный",
+        "icon": "shirt_icon.png",
+        "feedbacks": [
+            "Тестовый отзыв"
+        ]
+    },
+    "24180204":
+    {
+        "name": "Рубаха",
+        "price": 3590,
+        "size": 46,
+        "color": "Черный",
+        "icon": "shirt_icon.png",
+        "feedbacks": [
+            "Тестовый отзыв"
+        ]
+    },
+    
+    "24180301":
+    {
+        "name": "Рубаха",
+        "price": 3590,
+        "size": 40,
+        "color": "Серый",
+        "icon": "shirt_icon.png",
+        "feedbacks": [
+            "Тестовый отзыв"
+        ]
+    },
+    "24180302":
+    {
+        "name": "Рубаха",
+        "price": 3590,
+        "size": 42,
+        "color": "Серый",
+        "icon": "shirt_icon.png",
+        "feedbacks": [
+            "Тестовый отзыв"
+        ]
+    },
+    "24180303":
+    {
+        "name": "Рубаха",
+        "price": 3590,
+        "size": 44,
+        "color": "Серый",
+        "icon": "shirt_icon.png",
+        "feedbacks": [
+            "Тестовый отзыв"
+        ]
+    },
+    "24180304":
+    {
+        "name": "Рубаха",
+        "price": 3590,
+        "size": 46,
+        "color": "Серый",
+        "icon": "shirt_icon.png",
+        "feedbacks": [
+            "Тестовый отзыв"
+        ]
+    },
+    
+    "24180401":
+    {
+        "name": "Рубаха",
+        "price": 3590,
+        "size": 40,
+        "color": "Белый",
+        "icon": "shirt_icon.png",
+        "feedbacks": [
+            "Тестовый отзыв"
+        ]
+    },
+    "24180402":
+    {
+        "name": "Рубаха",
+        "price": 3590,
+        "size": 42,
+        "color": "Белый",
+        "icon": "shirt_icon.png",
+        "feedbacks": [
+            "Тестовый отзыв"
+        ]
+    },
+    "24180403":
+    {
+        "name": "Рубаха",
+        "price": 3590,
+        "size": 44,
+        "color": "Белый",
+        "icon": "shirt_icon.png",
+        "feedbacks": [
+            "Тестовый отзыв"
+        ]
+    },
+    "24180404":
+    {
+        "name": "Рубаха",
+        "price": 3590,
+        "size": 46,
+        "color": "Белый",
+        "icon": "shirt_icon.png",
+        "feedbacks": [
+            "Тестовый отзыв"
+        ]
+    },
+    
+    
+    
+    
+    "24190101":
+    {
+        "name": "Рубаха традиционная",
+        "price": 3990,
+        "size": 40,
+        "color": "Синий",
+        "icon": "shirt_traditional_icon.png",
+        "feedbacks": [
+            "Тестовый отзыв"
+        ]
+    },
+    "24190102":
+    {
+        "name": "Рубаха традиционная",
+        "price": 3990,
+        "size": 42,
+        "color": "Синий",
+        "icon": "shirt_traditional_icon.png",
+        "feedbacks": [
+            "Тестовый отзыв"
+        ]
+    },
+    "24190103":
+    {
+        "name": "Рубаха традиционная",
+        "price": 3990,
+        "size": 44,
+        "color": "Синий",
+        "icon": "shirt_traditional_icon.png",
+        "feedbacks": [
+            "Тестовый отзыв"
+        ]
+    },
+    "24190104":
+    {
+        "name": "Рубаха традиционная",
+        "price": 3990,
+        "size": 46,
+        "color": "Синий",
+        "icon": "shirt_traditional_icon.png",
+        "feedbacks": [
+            "Тестовый отзыв"
+        ]
+    },
+    
+    "24190201":
+    {
+        "name": "Рубаха традиционная",
+        "price": 3990,
+        "size": 40,
+        "color": "Черный",
+        "icon": "shirt_traditional_icon.png",
+        "feedbacks": [
+            "Тестовый отзыв"
+        ]
+    },
+    "24190202":
+    {
+        "name": "Рубаха традиционная",
+        "price": 3990,
+        "size": 42,
+        "color": "Черный",
+        "icon": "shirt_traditional_icon.png",
+        "feedbacks": [
+            "Тестовый отзыв"
+        ]
+    },
+    "24190203":
+    {
+        "name": "Рубаха традиционная",
+        "price": 3990,
+        "size": 44,
+        "color": "Черный",
+        "icon": "shirt_traditional_icon.png",
+        "feedbacks": [
+            "Тестовый отзыв"
+        ]
+    },
+    "24190204":
+    {
+        "name": "Рубаха традиционная",
+        "price": 3990,
+        "size": 46,
+        "color": "Черный",
+        "icon": "shirt_traditional_icon.png",
+        "feedbacks": [
+            "Тестовый отзыв"
+        ]
+    },
+    
+    "24190301":
+    {
+        "name": "Рубаха традиционная",
+        "price": 3990,
+        "size": 40,
+        "color": "Серый",
+        "icon": "shirt_traditional_icon.png",
+        "feedbacks": [
+            "Тестовый отзыв"
+        ]
+    },
+    "24190302":
+    {
+        "name": "Рубаха традиционная",
+        "price": 3990,
+        "size": 42,
+        "color": "Серый",
+        "icon": "shirt_traditional_icon.png",
+        "feedbacks": [
+            "Тестовый отзыв"
+        ]
+    },
+    "24190303":
+    {
+        "name": "Рубаха традиционная",
+        "price": 3990,
+        "size": 44,
+        "color": "Серый",
+        "icon": "shirt_traditional_icon.png",
+        "feedbacks": [
+            "Тестовый отзыв"
+        ]
+    },
+    "24190304":
+    {
+        "name": "Рубаха традиционная",
+        "price": 3990,
+        "size": 46,
+        "color": "Серый",
+        "icon": "shirt_traditional_icon.png",
+        "feedbacks": [
+            "Тестовый отзыв"
+        ]
+    },
+    
+    "24190401":
+    {
+        "name": "Рубаха традиционная",
+        "price": 3990,
+        "size": 40,
+        "color": "Белый",
+        "icon": "shirt_traditional_icon.png",
+        "feedbacks": [
+            "Тестовый отзыв"
+        ]
+    },
+    "24190402":
+    {
+        "name": "Рубаха традиционная",
+        "price": 3990,
+        "size": 42,
+        "color": "Белый",
+        "icon": "shirt_traditional_icon.png",
+        "feedbacks": [
+            "Тестовый отзыв"
+        ]
+    },
+    "24190403":
+    {
+        "name": "Рубаха традиционная",
+        "price": 3990,
+        "size": 44,
+        "color": "Белый",
+        "icon": "shirt_traditional_icon.png",
+        "feedbacks": [
+            "Тестовый отзыв"
+        ]
+    },
+    "24190404":
+    {
+        "name": "Рубаха традиционная",
+        "price": 3990,
+        "size": 46,
+        "color": "Белый",
+        "icon": "shirt_traditional_icon.png",
+        "feedbacks": [
+            "Тестовый отзыв"
+        ]
+    },
+    
+    
+    
+    
+    "24200101":
+    {
+        "name": "Футболка",
+        "price": 1190,
+        "size": 40,
+        "color": "Синий",
+        "icon": "short_sleeves_icon.png",
+        "feedbacks": [
+            "Тестовый отзыв"
+        ]
+    },
+    "24200102":
+    {
+        "name": "Футболка",
+        "price": 1190,
+        "size": 42,
+        "color": "Синий",
+        "icon": "short_sleeves_icon.png",
+        "feedbacks": [
+            "Тестовый отзыв"
+        ]
+    },
+    "24200103":
+    {
+        "name": "Футболка",
+        "price": 1190,
+        "size": 44,
+        "color": "Синий",
+        "icon": "short_sleeves_icon.png",
+        "feedbacks": [
+            "Тестовый отзыв"
+        ]
+    },
+    "24200104":
+    {
+        "name": "Футболка",
+        "price": 1190,
+        "size": 46,
+        "color": "Синий",
+        "icon": "short_sleeves_icon.png",
+        "feedbacks": [
+            "Тестовый отзыв"
+        ]
+    },
+    
+    "24200201":
+    {
+        "name": "Футболка",
+        "price": 1190,
+        "size": 40,
+        "color": "Черный",
+        "icon": "short_sleeves_icon.png",
+        "feedbacks": [
+            "Тестовый отзыв"
+        ]
+    },
+    "24200202":
+    {
+        "name": "Футболка",
+        "price": 1190,
+        "size": 42,
+        "color": "Черный",
+        "icon": "short_sleeves_icon.png",
+        "feedbacks": [
+            "Тестовый отзыв"
+        ]
+    },
+    "24200203":
+    {
+        "name": "Футболка",
+        "price": 1190,
+        "size": 44,
+        "color": "Черный",
+        "icon": "short_sleeves_icon.png",
+        "feedbacks": [
+            "Тестовый отзыв"
+        ]
+    },
+    "24200204":
+    {
+        "name": "Футболка",
+        "price": 1190,
+        "size": 46,
+        "color": "Черный",
+        "icon": "short_sleeves_icon.png",
+        "feedbacks": [
+            "Тестовый отзыв"
+        ]
+    },
+    
+    "24200301":
+    {
+        "name": "Футболка",
+        "price": 1190,
+        "size": 40,
+        "color": "Серый",
+        "icon": "short_sleeves_icon.png",
+        "feedbacks": [
+            "Тестовый отзыв"
+        ]
+    },
+    "24200302":
+    {
+        "name": "Футболка",
+        "price": 1190,
+        "size": 42,
+        "color": "Серый",
+        "icon": "short_sleeves_icon.png",
+        "feedbacks": [
+            "Тестовый отзыв"
+        ]
+    },
+    "24200303":
+    {
+        "name": "Футболка",
+        "price": 1190,
+        "size": 44,
+        "color": "Серый",
+        "icon": "short_sleeves_icon.png",
+        "feedbacks": [
+            "Тестовый отзыв"
+        ]
+    },
+    "24200304":
+    {
+        "name": "Футболка",
+        "price": 1190,
+        "size": 46,
+        "color": "Серый",
+        "icon": "short_sleeves_icon.png",
+        "feedbacks": [
+            "Тестовый отзыв"
+        ]
+    },
+    
+    "24200401":
+    {
+        "name": "Футболка",
+        "price": 1190,
+        "size": 40,
+        "color": "Белый",
+        "icon": "short_sleeves_icon.png",
+        "feedbacks": [
+            "Тестовый отзыв"
+        ]
+    },
+    "24200402":
+    {
+        "name": "Футболка",
+        "price": 1190,
+        "size": 42,
+        "color": "Белый",
+        "icon": "short_sleeves_icon.png",
+        "feedbacks": [
+            "Тестовый отзыв"
+        ]
+    },
+    "24200403":
+    {
+        "name": "Футболка",
+        "price": 1190,
+        "size": 44,
+        "color": "Белый",
+        "icon": "short_sleeves_icon.png",
+        "feedbacks": [
+            "Тестовый отзыв"
+        ]
+    },
+    "24200404":
+    {
+        "name": "Футболка",
+        "price": 1190,
+        "size": 46,
+        "color": "Белый",
+        "icon": "short_sleeves_icon.png",
+        "feedbacks": [
+            "Тестовый отзыв"
+        ]
+    },
+    
+    
+    
+    
+    "24210101":
+    {
+        "name": "Футболка со звездой",
+        "price": 1290,
+        "size": 40,
+        "color": "Синий",
+        "icon": "short_star_icon.png",
+        "feedbacks": [
+            "Тестовый отзыв"
+        ]
+    },
+    "24210102":
+    {
+        "name": "Футболка со звездой",
+        "price": 1290,
+        "size": 42,
+        "color": "Синий",
+        "icon": "short_star_icon.png",
+        "feedbacks": [
+            "Тестовый отзыв"
+        ]
+    },
+    "24210103":
+    {
+        "name": "Футболка со звездой",
+        "price": 1290,
+        "size": 44,
+        "color": "Синий",
+        "icon": "short_star_icon.png",
+        "feedbacks": [
+            "Тестовый отзыв"
+        ]
+    },
+    "24210104":
+    {
+        "name": "Футболка со звездой",
+        "price": 1290,
+        "size": 46,
+        "color": "Синий",
+        "icon": "short_star_icon.png",
+        "feedbacks": [
+            "Тестовый отзыв"
+        ]
+    },
+    
+    "24210201":
+    {
+        "name": "Футболка со звездой",
+        "price": 1290,
+        "size": 40,
+        "color": "Черный",
+        "icon": "short_star_icon.png",
+        "feedbacks": [
+            "Тестовый отзыв"
+        ]
+    },
+    "24210202":
+    {
+        "name": "Футболка со звездой",
+        "price": 1290,
+        "size": 42,
+        "color": "Черный",
+        "icon": "short_star_icon.png",
+        "feedbacks": [
+            "Тестовый отзыв"
+        ]
+    },
+    "24210203":
+    {
+        "name": "Футболка со звездой",
+        "price": 1290,
+        "size": 44,
+        "color": "Черный",
+        "icon": "short_star_icon.png",
+        "feedbacks": [
+            "Тестовый отзыв"
+        ]
+    },
+    "24210204":
+    {
+        "name": "Футболка со звездой",
+        "price": 1290,
+        "size": 46,
+        "color": "Черный",
+        "icon": "short_star_icon.png",
+        "feedbacks": [
+            "Тестовый отзыв"
+        ]
+    },
+    
+    "24210301":
+    {
+        "name": "Футболка со звездой",
+        "price": 1290,
+        "size": 40,
+        "color": "Серый",
+        "icon": "short_star_icon.png",
+        "feedbacks": [
+            "Тестовый отзыв"
+        ]
+    },
+    "24210302":
+    {
+        "name": "Футболка со звездой",
+        "price": 0,
+        "size": 42,
+        "color": "Серый",
+        "icon": "short_star_icon.png",
+        "feedbacks": [
+            "Тестовый отзыв"
+        ]
+    },
+    "24210303":
+    {
+        "name": "Футболка со звездой",
+        "price": 1290,
+        "size": 44,
+        "color": "Серый",
+        "icon": "short_star_icon.png",
+        "feedbacks": [
+            "Тестовый отзыв"
+        ]
+    },
+    "24210304":
+    {
+        "name": "Футболка со звездой",
+        "price": 1290,
+        "size": 46,
+        "color": "Серый",
+        "icon": "short_star_icon.png",
+        "feedbacks": [
+            "Тестовый отзыв"
+        ]
+    },
+    
+    "24210401":
+    {
+        "name": "Футболка со звездой",
+        "price": 1290,
+        "size": 40,
+        "color": "Белый",
+        "icon": "short_star_icon.png",
+        "feedbacks": [
+            "Тестовый отзыв"
+        ]
+    },
+    "24210402":
+    {
+        "name": "Футболка со звездой",
+        "price": 1290,
+        "size": 42,
+        "color": "Белый",
+        "icon": "short_star_icon.png",
+        "feedbacks": [
+            "Тестовый отзыв"
+        ]
+    },
+    "24210403":
+    {
+        "name": "Футболка со звездой",
+        "price": 1290,
+        "size": 44,
+        "color": "Белый",
+        "icon": "short_star_icon.png",
+        "feedbacks": [
+            "Тестовый отзыв"
+        ]
+    },
+    "24210404":
+    {
+        "name": "Футболка со звездой",
+        "price": 1290,
+        "size": 46,
+        "color": "Белый",
+        "icon": "short_star_icon.png",
+        "feedbacks": [
+            "Тестовый отзыв"
+        ]
+    },
+    
+    
+    
+    
+    "24220101":
+    {
+        "name": "Майка спортивная",
+        "price": 1590,
+        "size": 40,
+        "color": "Синий",
+        "icon": "vest_icon.png",
+        "feedbacks": [
+            "Тестовый отзыв"
+        ]
+    },
+    "24220102":
+    {
+        "name": "Майка спортивная",
+        "price": 1590,
+        "size": 42,
+        "color": "Синий",
+        "icon": "vest_icon.png",
+        "feedbacks": [
+            "Тестовый отзыв"
+        ]
+    },
+    "24220103":
+    {
+        "name": "Майка спортивная",
+        "price": 1590,
+        "size": 44,
+        "color": "Синий",
+        "icon": "vest_icon.png",
+        "feedbacks": [
+            "Тестовый отзыв"
+        ]
+    },
+    "24220104":
+    {
+        "name": "Майка спортивная",
+        "price": 1590,
+        "size": 46,
+        "color": "Синий",
+        "icon": "vest_icon.png",
+        "feedbacks": [
+            "Тестовый отзыв"
+        ]
+    },
+    
+    "24220201":
+    {
+        "name": "Майка спортивная",
+        "price": 1590,
+        "size": 40,
+        "color": "Черный",
+        "icon": "vest_icon.png",
+        "feedbacks": [
+            "Тестовый отзыв"
+        ]
+    },
+    "24220202":
+    {
+        "name": "Майка спортивная",
+        "price": 1590,
+        "size": 42,
+        "color": "Черный",
+        "icon": "vest_icon.png",
+        "feedbacks": [
+            "Тестовый отзыв"
+        ]
+    },
+    "24220203":
+    {
+        "name": "Майка спортивная",
+        "price": 1590,
+        "size": 44,
+        "color": "Черный",
+        "icon": "vest_icon.png",
+        "feedbacks": [
+            "Тестовый отзыв"
+        ]
+    },
+    "24220204":
+    {
+        "name": "Майка спортивная",
+        "price": 1590,
+        "size": 46,
+        "color": "Черный",
+        "icon": "vest_icon.png",
+        "feedbacks": [
+            "Тестовый отзыв"
+        ]
+    },
+    
+    "24220301":
+    {
+        "name": "Майка спортивная",
+        "price": 1590,
+        "size": 40,
+        "color": "Серый",
+        "icon": "vest_icon.png",
+        "feedbacks": [
+            "Тестовый отзыв"
+        ]
+    },
+    "24220302":
+    {
+        "name": "Майка спортивная",
+        "price": 1590,
+        "size": 42,
+        "color": "Серый",
+        "icon": "vest_icon.png",
+        "feedbacks": [
+            "Тестовый отзыв"
+        ]
+    },
+    "24220303":
+    {
+        "name": "Майка спортивная",
+        "price": 1590,
+        "size": 44,
+        "color": "Серый",
+        "icon": "vest_icon.png",
+        "feedbacks": [
+            "Тестовый отзыв"
+        ]
+    },
+    "24220304":
+    {
+        "name": "Майка спортивная",
+        "price": 1590,
+        "size": 46,
+        "color": "Серый",
+        "icon": "vest_icon.png",
+        "feedbacks": [
+            "Тестовый отзыв"
+        ]
+    },
+    
+    "24220401":
+    {
+        "name": "Майка спортивная",
+        "price": 1590,
+        "size": 40,
+        "color": "Белый",
+        "icon": "vest_icon.png",
+        "feedbacks": [
+            "Тестовый отзыв"
+        ]
+    },
+    "24220402":
+    {
+        "name": "Майка спортивная",
+        "price": 1590,
+        "size": 42,
+        "color": "Белый",
+        "icon": "vest_icon.png",
+        "feedbacks": [
+            "Тестовый отзыв"
+        ]
+    },
+    "24220403":
+    {
+        "name": "Майка спортивная",
+        "price": 1590,
+        "size": 44,
+        "color": "Белый",
+        "icon": "vest_icon.png",
+        "feedbacks": [
+            "Тестовый отзыв"
+        ]
+    },
+    "24220404":
+    {
+        "name": "Майка спортивная",
+        "price": 1590,
+        "size": 46,
+        "color": "Белый",
+        "icon": "vest_icon.png",
+        "feedbacks": [
+            "Тестовый отзыв"
+        ]
+    },
+    
+    
+    
+    
+    "24230101":
+    {
+        "name": "Жилет Вассермана",
+        "price": 6790,
+        "size": 40,
+        "color": "Синий",
+        "icon": "wassermann_icon.png",
+        "feedbacks": [
+            "Тестовый отзыв"
+        ]
+    },
+    "24230102":
+    {
+        "name": "Жилет Вассермана",
+        "price": 6790,
+        "size": 42,
+        "color": "Синий",
+        "icon": "wassermann_icon.png",
+        "feedbacks": [
+            "Тестовый отзыв"
+        ]
+    },
+    "24230103":
+    {
+        "name": "Жилет Вассермана",
+        "price": 6790,
+        "size": 44,
+        "color": "Синий",
+        "icon": "wassermann_icon.png",
+        "feedbacks": [
+            "Тестовый отзыв"
+        ]
+    },
+    "24230104":
+    {
+        "name": "Жилет Вассермана",
+        "price": 6790,
+        "size": 46,
+        "color": "Синий",
+        "icon": "wassermann_icon.png",
+        "feedbacks": [
+            "Тестовый отзыв"
+        ]
+    },
+    
+    "24230201":
+    {
+        "name": "Жилет Вассермана",
+        "price": 6790,
+        "size": 40,
+        "color": "Черный",
+        "icon": "wassermann_icon.png",
+        "feedbacks": [
+            "Тестовый отзыв"
+        ]
+    },
+    "24230202":
+    {
+        "name": "Жилет Вассермана",
+        "price": 6790,
+        "size": 42,
+        "color": "Черный",
+        "icon": "wassermann_icon.png",
+        "feedbacks": [
+            "Тестовый отзыв"
+        ]
+    },
+    "24230203":
+    {
+        "name": "Жилет Вассермана",
+        "price": 6790,
+        "size": 44,
+        "color": "Черный",
+        "icon": "wassermann_icon.png",
+        "feedbacks": [
+            "Тестовый отзыв"
+        ]
+    },
+    "24230204":
+    {
+        "name": "Жилет Вассермана",
+        "price": 6790,
+        "size": 46,
+        "color": "Черный",
+        "icon": "wassermann_icon.png",
+        "feedbacks": [
+            "Тестовый отзыв"
+        ]
+    },
+    
+    "24230301":
+    {
+        "name": "Жилет Вассермана",
+        "price": 6790,
+        "size": 40,
+        "color": "Серый",
+        "icon": "wassermann_icon.png",
+        "feedbacks": [
+            "Тестовый отзыв"
+        ]
+    },
+    "24230302":
+    {
+        "name": "Жилет Вассермана",
+        "price": 6790,
+        "size": 42,
+        "color": "Серый",
+        "icon": "wassermann_icon.png",
+        "feedbacks": [
+            "Тестовый отзыв"
+        ]
+    },
+    "24230303":
+    {
+        "name": "Жилет Вассермана",
+        "price": 6790,
+        "size": 44,
+        "color": "Серый",
+        "icon": "wassermann_icon.png",
+        "feedbacks": [
+            "Тестовый отзыв"
+        ]
+    },
+    "24230304":
+    {
+        "name": "Жилет Вассермана",
+        "price": 6790,
+        "size": 46,
+        "color": "Серый",
+        "icon": "wassermann_icon.png",
+        "feedbacks": [
+            "Тестовый отзыв"
+        ]
+    },
+    
+    "24230401":
+    {
+        "name": "Жилет Вассермана",
+        "price": 6790,
+        "size": 40,
+        "color": "Белый",
+        "icon": "wassermann_icon.png",
+        "feedbacks": [
+            "Тестовый отзыв"
+        ]
+    },
+    "24230402":
+    {
+        "name": "Жилет Вассермана",
+        "price": 6790,
+        "size": 42,
+        "color": "Белый",
+        "icon": "wassermann_icon.png",
+        "feedbacks": [
+            "Тестовый отзыв"
+        ]
+    },
+    "24230403":
+    {
+        "name": "Жилет Вассермана",
+        "price": 6790,
+        "size": 44,
+        "color": "Белый",
+        "icon": "wassermann_icon.png",
+        "feedbacks": [
+            "Тестовый отзыв"
+        ]
+    },
+    "24230404":
+    {
+        "name": "Жилет Вассермана",
+        "price": 6790,
+        "size": 46,
+        "color": "Белый",
+        "icon": "wassermann_icon.png",
+        "feedbacks": [
+            "Тестовый отзыв"
+        ]
+    },
+    
+    
+    
+    
+    "24240101":
+    {
+        "name": "Шапка зимняя",
+        "price": 1990,
+        "size": 40,
+        "color": "Синий",
+        "icon": "winter_hat_icon.png",
+        "feedbacks": [
+            "Тестовый отзыв"
+        ]
+    },
+    "24240102":
+    {
+        "name": "Шапка зимняя",
+        "price": 1990,
+        "size": 42,
+        "color": "Синий",
+        "icon": "winter_hat_icon.png",
+        "feedbacks": [
+            "Тестовый отзыв"
+        ]
+    },
+    "24240103":
+    {
+        "name": "Шапка зимняя",
+        "price": 1990,
+        "size": 44,
+        "color": "Синий",
+        "icon": "winter_hat_icon.png",
+        "feedbacks": [
+            "Тестовый отзыв"
+        ]
+    },
+    "24240104":
+    {
+        "name": "Шапка зимняя",
+        "price": 1990,
+        "size": 46,
+        "color": "Синий",
+        "icon": "winter_hat_icon.png",
+        "feedbacks": [
+            "Тестовый отзыв"
+        ]
+    },
+    
+    "24240201":
+    {
+        "name": "Шапка зимняя",
+        "price": 1990,
+        "size": 40,
+        "color": "Черный",
+        "icon": "winter_hat_icon.png",
+        "feedbacks": [
+            "Тестовый отзыв"
+        ]
+    },
+    "24240202":
+    {
+        "name": "Шапка зимняя",
+        "price": 0,
+        "size": 42,
+        "color": "Черный",
+        "icon": "winter_hat_icon.png",
+        "feedbacks": [
+            "Тестовый отзыв"
+        ]
+    },
+    "24240203":
+    {
+        "name": "Шапка зимняя",
+        "price": 1990,
+        "size": 44,
+        "color": "Черный",
+        "icon": "winter_hat_icon.png",
+        "feedbacks": [
+            "Тестовый отзыв"
+        ]
+    },
+    "24240204":
+    {
+        "name": "Шапка зимняя",
+        "price": 1990,
+        "size": 46,
+        "color": "Черный",
+        "icon": "winter_hat_icon.png",
+        "feedbacks": [
+            "Тестовый отзыв"
+        ]
+    },
+    
+    "24240301":
+    {
+        "name": "Шапка зимняя",
+        "price": 1990,
+        "size": 40,
+        "color": "Серый",
+        "icon": "winter_hat_icon.png",
+        "feedbacks": [
+            "Тестовый отзыв"
+        ]
+    },
+    "24240302":
+    {
+        "name": "Шапка зимняя",
+        "price": 1990,
+        "size": 42,
+        "color": "Серый",
+        "icon": "winter_hat_icon.png",
+        "feedbacks": [
+            "Тестовый отзыв"
+        ]
+    },
+    "24240303":
+    {
+        "name": "Шапка зимняя",
+        "price": 1990,
+        "size": 44,
+        "color": "Серый",
+        "icon": "winter_hat_icon.png",
+        "feedbacks": [
+            "Тестовый отзыв"
+        ]
+    },
+    "24240304":
+    {
+        "name": "Шапка зимняя",
+        "price": 1990,
+        "size": 46,
+        "color": "Серый",
+        "icon": "winter_hat_icon.png",
+        "feedbacks": [
+            "Тестовый отзыв"
+        ]
+    },
+    
+    "24240401":
+    {
+        "name": "Шапка зимняя",
+        "price": 1990,
+        "size": 40,
+        "color": "Белый",
+        "icon": "winter_hat_icon.png",
+        "feedbacks": [
+            "Тестовый отзыв"
+        ]
+    },
+    "24240402":
+    {
+        "name": "Шапка зимняя",
+        "price": 1990,
+        "size": 42,
+        "color": "Белый",
+        "icon": "winter_hat_icon.png",
+        "feedbacks": [
+            "Тестовый отзыв"
+        ]
+    },
+    "24240403":
+    {
+        "name": "Шапка зимняя",
+        "price": 1990,
+        "size": 44,
+        "color": "Белый",
+        "icon": "winter_hat_icon.png",
+        "feedbacks": [
+            "Тестовый отзыв"
+        ]
+    },
+    "24240404":
+    {
+        "name": "Шапка зимняя",
+        "price": 1990,
+        "size": 46,
+        "color": "Белый",
+        "icon": "winter_hat_icon.png",
+        "feedbacks": [
+            "Тестовый отзыв"
+        ]
+    },
+    
+    
+    
+    
+    "24250101":
+    {
+        "name": "Коньки",
+        "price": 4790,
+        "size": 40,
+        "color": "Синий",
+        "icon": "winter_ice_skating_shoes_icon.png",
+        "feedbacks": [
+            "Тестовый отзыв"
+        ]
+    },
+    "24250102":
+    {
+        "name": "Коньки",
+        "price": 4790,
+        "size": 42,
+        "color": "Синий",
+        "icon": "winter_ice_skating_shoes_icon.png",
+        "feedbacks": [
+            "Тестовый отзыв"
+        ]
+    },
+    "24250103":
+    {
+        "name": "Коньки",
+        "price": 4790,
+        "size": 44,
+        "color": "Синий",
+        "icon": "winter_ice_skating_shoes_icon.png",
+        "feedbacks": [
+            "Тестовый отзыв"
+        ]
+    },
+    "24250104":
+    {
+        "name": "Коньки",
+        "price": 4790,
+        "size": 46,
+        "color": "Синий",
+        "icon": "winter_ice_skating_shoes_icon.png",
+        "feedbacks": [
+            "Тестовый отзыв"
+        ]
+    },
+    
+    "24250201":
+    {
+        "name": "Коньки",
+        "price": 4790,
+        "size": 40,
+        "color": "Черный",
+        "icon": "winter_ice_skating_shoes_icon.png",
+        "feedbacks": [
+            "Тестовый отзыв"
+        ]
+    },
+    "24250202":
+    {
+        "name": "Коньки",
+        "price": 4790,
+        "size": 42,
+        "color": "Черный",
+        "icon": "winter_ice_skating_shoes_icon.png",
+        "feedbacks": [
+            "Тестовый отзыв"
+        ]
+    },
+    "24250203":
+    {
+        "name": "Коньки",
+        "price": 4790,
+        "size": 44,
+        "color": "Черный",
+        "icon": "winter_ice_skating_shoes_icon.png",
+        "feedbacks": [
+            "Тестовый отзыв"
+        ]
+    },
+    "24250204":
+    {
+        "name": "Коньки",
+        "price": 4790,
+        "size": 46,
+        "color": "Черный",
+        "icon": "winter_ice_skating_shoes_icon.png",
+        "feedbacks": [
+            "Тестовый отзыв"
+        ]
+    },
+    
+    "24250301":
+    {
+        "name": "Коньки",
+        "price": 4790,
+        "size": 40,
+        "color": "Серый",
+        "icon": "winter_ice_skating_shoes_icon.png",
+        "feedbacks": [
+            "Тестовый отзыв"
+        ]
+    },
+    "24250302":
+    {
+        "name": "Коньки",
+        "price": 4790,
+        "size": 42,
+        "color": "Серый",
+        "icon": "winter_ice_skating_shoes_icon.png",
+        "feedbacks": [
+            "Тестовый отзыв"
+        ]
+    },
+    "24250303":
+    {
+        "name": "Коньки",
+        "price": 4790,
+        "size": 44,
+        "color": "Серый",
+        "icon": "winter_ice_skating_shoes_icon.png",
+        "feedbacks": [
+            "Тестовый отзыв"
+        ]
+    },
+    "24250304":
+    {
+        "name": "Коньки",
+        "price": 4790,
+        "size": 46,
+        "color": "Серый",
+        "icon": "winter_ice_skating_shoes_icon.png",
+        "feedbacks": [
+            "Тестовый отзыв"
+        ]
+    },
+    
+    "24250401":
+    {
+        "name": "Коньки",
+        "price": 4790,
+        "size": 40,
+        "color": "Белый",
+        "icon": "winter_ice_skating_shoes_icon.png",
+        "feedbacks": [
+            "Тестовый отзыв"
+        ]
+    },
+    "24250402":
+    {
+        "name": "Коньки",
+        "price": 4790,
+        "size": 42,
+        "color": "Белый",
+        "icon": "winter_ice_skating_shoes_icon.png",
+        "feedbacks": [
+            "Тестовый отзыв"
+        ]
+    },
+    "24250403":
+    {
+        "name": "Коньки",
+        "price": 4790,
+        "size": 44,
+        "color": "Белый",
+        "icon": "winter_ice_skating_shoes_icon.png",
+        "feedbacks": [
+            "Тестовый отзыв"
+        ]
+    },
+    "24250404":
+    {
+        "name": "Коньки",
+        "price": 4790,
+        "size": 46,
+        "color": "Белый",
+        "icon": "winter_ice_skating_shoes_icon.png",
+        "feedbacks": [
+            "Тестовый отзыв"
+        ]
+    },
+    
+    
+    
+    
+    "24260101":
+    {
+        "name": "Куртка зимняя",
+        "price": 9990,
+        "size": 40,
+        "color": "Синий",
+        "icon": "winter_jacket_icon.png",
+        "feedbacks": [
+            "Тестовый отзыв"
+        ]
+    },
+    "24260102":
+    {
+        "name": "Куртка зимняя",
+        "price": 9990,
+        "size": 42,
+        "color": "Синий",
+        "icon": "winter_jacket_icon.png",
+        "feedbacks": [
+            "Тестовый отзыв"
+        ]
+    },
+    "24260103":
+    {
+        "name": "Куртка зимняя",
+        "price": 9990,
+        "size": 44,
+        "color": "Синий",
+        "icon": "winter_jacket_icon.png",
+        "feedbacks": [
+            "Тестовый отзыв"
+        ]
+    },
+    "24260104":
+    {
+        "name": "Куртка зимняя",
+        "price": 9990,
+        "size": 46,
+        "color": "Синий",
+        "icon": "winter_jacket_icon.png",
+        "feedbacks": [
+            "Тестовый отзыв"
+        ]
+    },
+    
+    "24260201":
+    {
+        "name": "Куртка зимняя",
+        "price": 9990,
+        "size": 40,
+        "color": "Черный",
+        "icon": "winter_jacket_icon.png",
+        "feedbacks": [
+            "Тестовый отзыв"
+        ]
+    },
+    "24260202":
+    {
+        "name": "Куртка зимняя",
+        "price": 9990,
+        "size": 42,
+        "color": "Черный",
+        "icon": "winter_jacket_icon.png",
+        "feedbacks": [
+            "Тестовый отзыв"
+        ]
+    },
+    "24260203":
+    {
+        "name": "Куртка зимняя",
+        "price": 9990,
+        "size": 44,
+        "color": "Черный",
+        "icon": "winter_jacket_icon.png",
+        "feedbacks": [
+            "Тестовый отзыв"
+        ]
+    },
+    "24260204":
+    {
+        "name": "Куртка зимняя",
+        "price": 9990,
+        "size": 46,
+        "color": "Черный",
+        "icon": "winter_jacket_icon.png",
+        "feedbacks": [
+            "Тестовый отзыв"
+        ]
+    },
+    
+    "24260301":
+    {
+        "name": "Куртка зимняя",
+        "price": 9990,
+        "size": 40,
+        "color": "Серый",
+        "icon": "winter_jacket_icon.png",
+        "feedbacks": [
+            "Тестовый отзыв"
+        ]
+    },
+    "24260302":
+    {
+        "name": "Куртка зимняя",
+        "price": 9990,
+        "size": 42,
+        "color": "Серый",
+        "icon": "winter_jacket_icon.png",
+        "feedbacks": [
+            "Тестовый отзыв"
+        ]
+    },
+    "24260303":
+    {
+        "name": "Куртка зимняя",
+        "price": 9990,
+        "size": 44,
+        "color": "Серый",
+        "icon": "winter_jacket_icon.png",
+        "feedbacks": [
+            "Тестовый отзыв"
+        ]
+    },
+    "24260304":
+    {
+        "name": "Куртка зимняя",
+        "price": 9990,
+        "size": 46,
+        "color": "Серый",
+        "icon": "winter_jacket_icon.png",
+        "feedbacks": [
+            "Тестовый отзыв"
+        ]
+    },
+    
+    "24260401":
+    {
+        "name": "Куртка зимняя",
+        "price": 9990,
+        "size": 40,
+        "color": "Белый",
+        "icon": "winter_jacket_icon.png",
+        "feedbacks": [
+            "Тестовый отзыв"
+        ]
+    },
+    "24260402":
+    {
+        "name": "Куртка зимняя",
+        "price": 9990,
+        "size": 42,
+        "color": "Белый",
+        "icon": "winter_jacket_icon.png",
+        "feedbacks": [
+            "Тестовый отзыв"
+        ]
+    },
+    "24260403":
+    {
+        "name": "Куртка зимняя",
+        "price": 9990,
+        "size": 44,
+        "color": "Белый",
+        "icon": "winter_jacket_icon.png",
+        "feedbacks": [
+            "Тестовый отзыв"
+        ]
+    },
+    "24260404":
+    {
+        "name": "Куртка зимняя",
+        "price": 9990,
+        "size": 46,
+        "color": "Белый",
+        "icon": "winter_jacket_icon.png",
+        "feedbacks": [
+            "Тестовый отзыв"
+        ]
+    },
+    
+    
+    
+    
+    "24270101":
+    {
+        "name": "Носки зимние",
+        "price": 1490,
+        "size": 40,
+        "color": "Синий",
+        "icon": "winter_sock_icon.png",
+        "feedbacks": [
+            "Тестовый отзыв"
+        ]
+    },
+    "24270102":
+    {
+        "name": "Носки зимние",
+        "price": 1490,
+        "size": 42,
+        "color": "Синий",
+        "icon": "winter_sock_icon.png",
+        "feedbacks": [
+            "Тестовый отзыв"
+        ]
+    },
+    "24270103":
+    {
+        "name": "Носки зимние",
+        "price": 1490,
+        "size": 44,
+        "color": "Синий",
+        "icon": "winter_sock_icon.png",
+        "feedbacks": [
+            "Тестовый отзыв"
+        ]
+    },
+    "24270104":
+    {
+        "name": "Носки зимние",
+        "price": 1490,
+        "size": 46,
+        "color": "Синий",
+        "icon": "winter_sock_icon.png",
+        "feedbacks": [
+            "Тестовый отзыв"
+        ]
+    },
+    
+    "24270201":
+    {
+        "name": "Носки зимние",
+        "price": 1490,
+        "size": 40,
+        "color": "Черный",
+        "icon": "winter_sock_icon.png",
+        "feedbacks": [
+            "Тестовый отзыв"
+        ]
+    },
+    "24270202":
+    {
+        "name": "Носки зимние",
+        "price": 1490,
+        "size": 42,
+        "color": "Черный",
+        "icon": "winter_sock_icon.png",
+        "feedbacks": [
+            "Тестовый отзыв"
+        ]
+    },
+    "24270203":
+    {
+        "name": "Носки зимние",
+        "price": 1490,
+        "size": 44,
+        "color": "Черный",
+        "icon": "winter_sock_icon.png",
+        "feedbacks": [
+            "Тестовый отзыв"
+        ]
+    },
+    "24270204":
+    {
+        "name": "Носки зимние",
+        "price": 1490,
+        "size": 46,
+        "color": "Черный",
+        "icon": "winter_sock_icon.png",
+        "feedbacks": [
+            "Тестовый отзыв"
+        ]
+    },
+    
+    "24270301":
+    {
+        "name": "Носки зимние",
+        "price": 1490,
+        "size": 40,
+        "color": "Серый",
+        "icon": "winter_sock_icon.png",
+        "feedbacks": [
+            "Тестовый отзыв"
+        ]
+    },
+    "24270302":
+    {
+        "name": "Носки зимние",
+        "price": 1490,
+        "size": 42,
+        "color": "Серый",
+        "icon": "winter_sock_icon.png",
+        "feedbacks": [
+            "Тестовый отзыв"
+        ]
+    },
+    "24270303":
+    {
+        "name": "Носки зимние",
+        "price": 1490,
+        "size": 44,
+        "color": "Серый",
+        "icon": "winter_sock_icon.png",
+        "feedbacks": [
+            "Тестовый отзыв"
+        ]
+    },
+    "24270304":
+    {
+        "name": "Носки зимние",
+        "price": 1490,
+        "size": 46,
+        "color": "Серый",
+        "icon": "winter_sock_icon.png",
+        "feedbacks": [
+            "Тестовый отзыв"
+        ]
+    },
+    
+    "24270401":
+    {
+        "name": "Носки зимние",
+        "price": 1490,
+        "size": 40,
+        "color": "Белый",
+        "icon": "winter_sock_icon.png",
+        "feedbacks": [
+            "Тестовый отзыв"
+        ]
+    },
+    "24270402":
+    {
+        "name": "Носки зимние",
+        "price": 1490,
+        "size": 42,
+        "color": "Белый",
+        "icon": "winter_sock_icon.png",
+        "feedbacks": [
+            "Тестовый отзыв"
+        ]
+    },
+    "24270403":
+    {
+        "name": "Носки зимние",
+        "price": 1490,
+        "size": 44,
+        "color": "Белый",
+        "icon": "winter_sock_icon.png",
+        "feedbacks": [
+            "Тестовый отзыв"
+        ]
+    },
+    "24270404":
+    {
+        "name": "Носки зимние",
+        "price": 1490,
+        "size": 46,
+        "color": "Белый",
+        "icon": "winter_sock_icon.png",
         "feedbacks": [
             "Тестовый отзыв"
         ]
