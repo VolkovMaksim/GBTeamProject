@@ -36,6 +36,8 @@ class FeedbackController {
                     result: 0,
                     user_message: "Ошибка добавления!"
                 )
+                
+                return req.eventLoop.future(response)
             }
             
         } catch {
