@@ -30,6 +30,10 @@ func routes(_ app: Application) throws {
     app.get("$0.png") { req async in
         "передача изображения"
     }
+    
+    //MARK: РЕДАКТИРОВАНИЕ ОТЗЫВОВ
+    let controllerFeedback = FeedbackController()
+    app.post("feedback", use: controllerFeedback.addFeedback)
 
     try app.register(collection: TodoController())
 }
