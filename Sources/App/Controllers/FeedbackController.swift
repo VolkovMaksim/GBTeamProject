@@ -31,7 +31,12 @@ class FeedbackController {
             stock = try decoder.decode(Merch.self, from: data)
             stock[body.merch]?.feedbacks = body.feedbacks
             let newData = try encoder.encode(stock)
-            let _ = req.fileio.writeFile(ByteBuffer(data: newData), at: "Public/merch.json")
+            guard let _ = try? req.fileio.writeFile(ByteBuffer(data: newData), at: "Public/merch.json") else {
+                let response = FeedbackResponse(
+                    result: 0,
+                    user_message: "Ошибка добавления!"
+                )
+            }
             
         } catch {
             print(error)
