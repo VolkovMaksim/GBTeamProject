@@ -27,9 +27,11 @@ class FeedbackController {
                 .appendingPathComponent(configDir, isDirectory: true)
                 .appendingPathComponent("merch.json", isDirectory: false))
             
-            
+            try FileManager.default.removeItem(atPath: "Public/merch.json")
+            sleep(1)
             stock = try decoder.decode(Merch.self, from: data)
             stock[body.merch]?.feedbacks = body.feedbacks
+            print(stock.count)
             let newData = try encoder.encode(stock)
             let _ = req.fileio.writeFile(ByteBuffer(data: newData), at: "Public/merch.json")
             
@@ -41,7 +43,7 @@ class FeedbackController {
             result: 1,
             user_message: "Ваш отзыв успешно добавлен!"
         )
-        sleep(2)
+        sleep(1)
         return req.eventLoop.future(response)
     }
 }
