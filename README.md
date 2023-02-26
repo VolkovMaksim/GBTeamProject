@@ -40,13 +40,14 @@ POST-запрос Body raw JSON:
  
   {
   
-    "password": String(Optional),
-    "user_message": String(Optional),
-    "credit_card": String(Optional),
-    "result": Int,
+    "username": String(Optional),
     "email": String(Optional),
-    "error_message": String(Optional),
-    "username": String(Optional)
+    "password": String(Optional),
+    "credit_card": String(Optional),
+    "itemsInCart": [String](Optional),
+    "result": Int,
+    "user_message": String,
+    "error_message": String(Optional)
   }
   
   ### 3. /editpersonaldata
